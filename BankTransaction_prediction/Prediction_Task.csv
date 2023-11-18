@@ -1,0 +1,732 @@
+Code,AB_CITY,CITY,MEASURE,INSTRUMENT_TYPE,TERMINAL_LOCATION,CARD_LOCATION,TERMINAL_TYPE,AVAILABILITY,2012,STATUS,2013,STATUS2,2014,STATUS3,2015,STATUS4,2016,STATUS5,2017,STATUS6,2018,STATUS7,2019,STATUS8,2020,STATUS9
+A:AR:N:A:A:Z:Z:A:A:A:F:A,AR,Argentina,Number,A,Not applicable,Not applicable,At POS,All users,21.338,A,68.452,A,81.704,A,98.951,A,120.867,A,158.232,A,223.519,A,326.677,A,885.219,A
+A:AR:N:A:A:Z:Z:A:A:Z:A:A,AR,Argentina,Number,A,Not applicable,Not applicable,All,All users,1127.108,A,1230.436,A,1384.956,A,1547.812,A,1797.984,A,1977.306,A,2254.098,A,2734.84,A,3290.771,A
+A:AR:N:B:A:Z:Z:A:A:A:F:A,AR,Argentina,Number,B,Not applicable,Not applicable,All,All users,21.338,A,68.452,A,81.704,A,98.951,A,120.867,A,158.23,A,223.513,A,326.314,A,884.8,A
+A:AR:N:C:A:Z:Z:A:A:Z:A:A,AR,Argentina,Number,C,Not applicable,Not applicable,At ATMs,All users,35.729,A,38.887,A,42.768,A,46.792,A,52.718,A,64.59,A,79.889,A,93.838,A,107.514,A
+A:AR:N:C:D:Z:Z:A:A:Z:A:A,AR,Argentina,Number,C,Not applicable,Not applicable,At POS,All users,35.729,A,38.887,A,42.768,A,46.792,A,52.718,A,64.59,A,79.889,A,93.838,A,107.514,A
+A:AR:N:D:A:Z:Z:A:A:Z:A:A,AR,Argentina,Number,D,Not applicable,Not applicable,At POS,All users,93.591,A,93.688,A,91.362,A,89.05,A,86.306,A,85.421,A,83.336,A,77.487,A,56.479,A
+A:AR:N:E:A:Z:Z:A:A:A:F:A,AR,Argentina,Number,E,Not applicable,Not applicable,At POS,All users,,L,,M,,M,,M,,M,0.002,A,0.006,A,0.363,A,0.419,A
+A:AR:N:F:A:A:I:A:A:D:A:A,AR,Argentina,Number,F,All,Inside the country,At POS,All users,420.626,A,470.509,A,515.807,A,587.264,A,682.858,A,749.423,A,866.195,A,1054.729,A,1230.032,A
+A:AR:N:F:A:A:I:A:A:H:A:A,AR,Argentina,Number,F,All,Inside the country,At ATMs,All users,,L,,L,,L,,L,1.951,A,20.849,A,39.017,A,94.456,A,80.973,A
+A:AR:N:F:C:O:I:A:A:A:A:A,AR,Argentina,Number,F,Outside the country,Inside the country,At ATMs,All users,,L,,L,,L,,L,,L,,L,,L,,L,0,A
+A:AR:N:F:D:I:I:A:A:A:A:A,AR,Argentina,Number,F,Inside the country,Inside the country,At ATMs,All users,,L,,L,,L,,L,,L,,L,,L,,L,2170.784,A
+A:AR:N:F:D:I:I:A:A:E:A:A,AR,Argentina,Number,F,Inside the country,Inside the country,All,All users,,L,,L,,L,,L,,L,,L,,L,,L,0,A
+A:AR:N:F:D:I:I:A:A:H:A:A,AR,Argentina,Number,F,Inside the country,Inside the country,At POS,All users,,L,,L,,L,,L,,L,,L,,L,,L,80.973,A
+A:AR:N:L:A:A:I:O:A:A:A:A,AR,Argentina,Number,L,All,Inside the country,All,All users,676.41,A,720.216,A,786.09,A,882.579,A,971.048,A,1057.861,A,1139.389,A,1240.514,A,1194.203,A
+A:AR:N:M:A:A:I:O:A:A:A:A,AR,Argentina,Number,M,All,Inside the country,All,All users,661.448,A,703.588,A,767.305,A,861.697,A,949.22,A,1036.505,A,1114.498,A,1208.438,A,1144.37,A
+A:AR:N:M:A:A:I:O:B:A:A:A,AR,Argentina,Number,M,All,Inside the country,At ATMs,All users,661.448,A,703.588,A,767.305,A,861.697,A,949.22,A,1040.181,A,1114.498,A,1208.438,A,1144.37,A
+A:AR:N:M:D:I:I:O:A:A:A:A,AR,Argentina,Number,M,Inside the country,Inside the country,All,All users,660.268,A,703.396,A,767.2,A,861.545,A,947.865,A,1034.256,A,1112.586,A,1207.349,A,1144.178,A
+A:AR:N:M:D:I:I:O:B:A:A:A,AR,Argentina,Number,M,Inside the country,Inside the country,At ATMs,All users,660.268,A,703.396,A,767.2,A,861.545,A,947.865,A,1034.256,A,1112.586,A,1207.349,A,1144.178,A
+A:AR:N:M:Z:I:A:O:A:A:A:A,AR,Argentina,Number,M,Inside the country,All,All,All users,665.07,A,706.265,A,769.692,A,863.574,A,951.312,A,1037.932,A,1115.778,A,1210.355,A,1145.372,A
+A:AR:N:M:Z:I:A:O:B:A:A:A,AR,Argentina,Number,M,Inside the country,All,At ATMs,All users,661.448,A,703.588,A,767.305,A,861.697,A,949.22,A,1041.608,A,1114.498,A,1208.438,A,1144.37,A
+A:AR:N:M:Z:I:O:O:A:A:A:A,AR,Argentina,Number,M,Inside the country,Outside the country,All,All users,4.802,A,2.869,A,2.492,A,2.029,A,3.447,A,3.676,A,3.192,A,3.006,A,1.194,A
+A:AR:N:M:Z:O:I:O:A:A:A:A,AR,Argentina,Number,M,Outside the country,Inside the country,All,All users,1.18,A,0.192,A,0.105,A,0.152,A,1.355,A,2.249,A,1.912,A,1.089,A,0.192,A
+A:AR:N:N:A:A:I:O:A:A:A:A,AR,Argentina,Number,N,All,Inside the country,All,All users,14.962,A,16.628,A,18.785,A,20.882,A,21.828,A,21.356,A,24.891,A,32.076,A,49.833,A
+A:AR:N:N:D:I:I:O:A:A:A:A,AR,Argentina,Number,N,Inside the country,Inside the country,All,All users,14.962,A,16.628,A,18.785,A,20.882,A,21.828,A,21.356,A,24.891,A,32.076,A,49.833,A
+A:AR:V:A:A:Z:Z:A:A:A:F:A,AR,Argentina,Value,A,Not applicable,Not applicable,All,All users,122279.418,A,5031366.19,A,7252889.45,A,9892473.341,A,14498867.42,A,19171064.02,A,28186840.72,A,45357333.32,A,66876554.37,A
+A:AR:V:A:A:Z:Z:A:P:A:F:A,AR,Argentina,Value,A,Not applicable,Not applicable,At POS,All users,,L,,L,,L,,L,,L,118.406,A,2585.648,A,19575.224,A,573283.903,A
+A:AR:V:B:A:Z:Z:A:A:A:F:A,AR,Argentina,Value,B,Not applicable,Not applicable,All,All users,122279.418,A,5031366.19,A,7252889.45,A,9892473.341,A,14498867.42,A,19171028.45,A,28186791.36,A,45268283.22,A,66794676.27,A
+A:AR:V:B:A:Z:Z:R:P:Z:A:A,AR,Argentina,Value,B,Not applicable,Not applicable,At POS,All users,,M,,L,,L,,L,,L,,L,,L,,L,0,A
+A:AR:V:C:A:Z:Z:A:A:Z:A:A,AR,Argentina,Value,C,Not applicable,Not applicable,All,All users,55820.255,A,50480.735,A,60089.414,A,88959.379,A,134649.482,A,208982.449,A,326931.336,A,536540.577,A,762777.56,A
+A:AR:V:D:A:Z:Z:A:A:Z:A:A,AR,Argentina,Value,D,Not applicable,Not applicable,All,All users,1210015.35,A,1503033.78,A,1931407.64,A,2355882.96,A,2870699.13,A,3519452.21,A,4392450.943,A,5818606.425,A,6357007.127,A
+A:AR:V:E:A:Z:Z:A:A:A:F:A,AR,Argentina,Value,E,Not applicable,Not applicable,All,All users,,L,,L,,M,,M,,M,35.574,A,49.358,A,89050.101,A,81878.1,A
+A:AR:V:F:A:A:I:A:A:D:A:A,AR,Argentina,Value,F,All,Inside the country,All,All users,84537.162,A,114322.241,A,163292.507,A,232632.767,A,326608.071,A,455277.745,A,656284.843,A,1069746.76,A,1897511.335,A
+A:AR:V:F:D:I:I:A:A:A:A:A,AR,Argentina,Value,F,Inside the country,Inside the country,All,All users,,L,,L,,L,,L,,L,,L,,L,,L,4757993.968,A
+A:AR:V:L:A:A:I:O:A:A:A:A,AR,Argentina,Value,L,All,Inside the country,All,All users,537096.461,A,686303.269,A,895430.255,A,1177099.232,A,1491544.257,A,1887192.815,A,2297061.574,A,3158448.605,A,5640543.076,A
+A:AR:V:M:A:A:I:O:A:A:A:A,AR,Argentina,Value,M,All,Inside the country,All,All users,494623.461,A,645103.269,A,843991.255,A,1114537.228,A,1424216.906,A,1812956.832,A,2189464.948,A,2965747.061,A,4940413.52,A
+A:AR:V:M:A:A:I:O:B:A:A:A,AR,Argentina,Value,M,All,Inside the country,At ATMs,All users,494623.461,A,645103.269,A,843991.255,A,1114537.228,A,1424216.906,A,1812956.832,A,2189464.948,A,2965747.061,A,4940413.52,A
+A:AR:V:M:D:I:I:O:A:A:A:A,AR,Argentina,Value,M,Inside the country,Inside the country,All,All users,494060.313,A,644955,A,843947,A,1114476.48,A,1422110.616,A,1807906.501,A,2182431.936,A,2960145.871,A,4938322,A
+A:AR:V:M:D:I:I:O:B:A:A:A,AR,Argentina,Value,M,Inside the country,Inside the country,At ATMs,All users,494060.313,A,644955,A,843947,A,1114476.48,A,1422110.616,A,1807906.501,A,2182431.936,A,2960145.871,A,4938322,A
+A:AR:V:M:Z:I:A:O:A:A:A:A,AR,Argentina,Value,M,Inside the country,All,All,All users,497573.313,A,647150,A,846254,A,1116511.429,A,1427567.477,A,1814575.081,A,2190776.876,A,2971411.479,A,4943858.703,A
+A:AR:V:M:Z:I:A:O:B:A:A:A,AR,Argentina,Value,M,Inside the country,All,At ATMs,All users,494623.461,A,645103.269,A,843991.255,A,1114537.228,A,1424216.906,A,1812956.832,A,2189464.948,A,2965747.061,A,4940413.52,A
+A:AR:V:M:Z:I:O:O:A:A:A:A,AR,Argentina,Value,M,Inside the country,Outside the country,All,All users,3513,A,2195,A,2307,A,2034.949,A,5456.861,A,6668.58,A,8344.941,A,11265.608,A,5536.703,A
+A:AR:V:M:Z:O:I:O:A:A:A:A,AR,Argentina,Value,M,Outside the country,Inside the country,All,All users,563.148,A,148.269,A,44.255,A,60.748,A,2106.29,A,5050.331,A,7033.012,A,5601.19,A,2091.52,A
+A:AR:V:N:A:A:I:O:A:A:A:A,AR,Argentina,Value,N,All,Inside the country,All,All users,42473,A,41200,A,51439,A,62562.004,A,67327.351,A,74235.983,A,107596.626,A,192701.545,A,700129.556,A
+A:AR:V:N:D:I:I:O:A:A:A:A,AR,Argentina,Value,N,Inside the country,Inside the country,All,All users,42473,A,41200,A,51439,A,62562.004,A,67327.351,A,74235.983,A,107596.626,A,192701.545,A,700129.556,A
+A:AU:N:A:A:Z:Z:A:A:A:F:A,AU,Australia,Number,A,Not applicable,Not applicable,All,All users,,M,,M,,M,,M,,M,,M,74.021,A,274.869,A,570.298,A
+A:AU:N:B:A:Z:Z:A:A:A:F:A,AU,Australia,Number,B,Not applicable,Not applicable,All,All users,,M,,M,,M,,M,,M,,M,74.021,A,274.869,A,570.298,A
+A:AU:N:B:A:Z:Z:A:A:Z:A:A,AU,Australia,Number,B,Not applicable,Not applicable,At ATMs,All users,1640.798,A,1746.036,A,1784.598,A,1922.102,A,2090.795,A,2254.294,A,2161.664,A,2302.544,A,2496.73,A
+A:AU:N:C:A:Z:Z:A:A:Z:A:A,AU,Australia,Number,C,Not applicable,Not applicable,At ATMs,All users,737.344,A,807.532,A,883.088,A,976.585,A,1082.357,A,1232.722,A,1000.131,A,975.929,A,899.335,A
+A:AU:N:D:A:Z:Z:A:A:Z:A:A,AU,Australia,Number,D,Not applicable,Not applicable,At ATMs,All users,224.37,A,194.398,A,166.648,A,139.549,A,111.65,A,89.67,A,71.721,A,56.925,A,41.5,A
+A:AU:N:E:A:Z:Z:A:A:Z:A:A,AU,Australia,Number,E,Not applicable,Not applicable,At ATMs,All users,330.322,A,346.46,A,363.17,A,375.57,A,383.9,A,392.33,A,413.138,A,408.403,A,400.916,A
+A:AU:N:F:A:A:I:A:A:D:A:A,AU,Australia,Number,F,All,Inside the country,At ATMs,All users,2998.112,A,3384.459,A,3790.636,A,4260.495,A,4848.464,A,5597.102,A,6549.538,A,7388.862,A,8064.611,A
+A:AU:N:F:A:A:I:P:A:A:A:A,AU,Australia,Number,F,All,Inside the country,All,All users,4023.413,A,4384.699,A,4931.106,A,5531.129,A,6210.297,A,6870.257,A,7688.433,A,8399.482,A,8234.761,A
+A:AU:N:F:C:O:I:A:A:A:A:A,AU,Australia,Number,F,Outside the country,Inside the country,All,All users,146.957,A,175.14,A,181.691,A,185.451,A,219.891,A,261.21,A,316.557,A,334.527,A,266.235,A
+A:AU:N:F:D:I:I:A:A:A:A:A,AU,Australia,Number,F,Inside the country,Inside the country,All,All users,4626.748,A,5126.093,A,5681.233,A,6336.999,A,7114.418,A,8026.288,A,9095.124,A,10175.228,A,10761.82,A
+A:AU:N:F:Z:I:A:A:A:A:A:A,AU,Australia,Number,F,Inside the country,All,All,All users,4549.473,A,4990.916,A,5582.717,A,6289.144,A,7152.308,A,8010.964,A,9084.827,A,10027.249,A,10070.837,A
+A:AU:N:F:Z:I:O:A:A:A:A:A,AU,Australia,Number,F,Inside the country,Outside the country,All,All users,55.088,A,62.094,A,72.652,A,91.037,A,117.293,A,143.955,A,173.436,A,194.939,A,122.427,A
+A:AU:N:M:A:A:I:O:A:A:A:A,AU,Australia,Number,M,All,Inside the country,All,All users,1146.365,A,1113.055,A,1066.002,A,1011.722,A,941.993,A,879.527,A,844.339,A,783.701,A,552.378,A
+A:AU:N:M:D:I:I:O:A:A:A:A,AU,Australia,Number,M,Inside the country,Inside the country,All,All users,1129.113,A,1094.749,A,1047.848,A,994.457,A,925.252,A,863.544,A,826.147,A,765.372,A,546.149,A
+A:AU:N:M:D:I:I:O:B:A:A:A,AU,Australia,Number,M,Inside the country,Inside the country,At ATMs,All users,801.495,A,762.601,A,725.79,A,686.075,A,634.378,A,596.278,A,573.344,A,530.709,A,389.85,A
+A:AU:N:M:D:I:I:O:P:A:A:A,AU,Australia,Number,M,Inside the country,Inside the country,At POS,All users,301.561,A,305.694,A,298.407,A,286.356,A,270.21,A,248.136,A,224.169,A,204.102,A,131.833,A
+A:AU:N:M:D:I:I:O:S:A:A:A,AU,Australia,Number,M,Inside the country,Inside the country,At bank branches without use of ATMs,All users,26.056,A,26.453,A,23.651,A,22.026,A,20.664,A,19.129,A,28.633,A,30.561,A,24.466,A
+A:AU:N:M:Z:I:A:O:B:A:A:A,AU,Australia,Number,M,Inside the country,All,At ATMs,All users,838.381,A,795.321,A,756.974,A,715.118,A,660.413,A,621.805,A,600.299,A,553.898,A,402.278,A
+A:AU:N:M:Z:I:O:O:A:A:A:A,AU,Australia,Number,M,Inside the country,Outside the country,All,All users,11.772,A,11.513,A,11.946,A,11.868,A,11.172,A,10.978,A,10.228,A,8.858,A,3.95,A
+A:AU:N:M:Z:O:I:O:A:A:A:A,AU,Australia,Number,M,Outside the country,Inside the country,All,All users,17.252,A,18.306,A,18.154,A,17.265,A,16.741,A,15.983,A,18.192,A,18.329,A,6.229,A
+A:AU:V:A:A:Z:Z:A:A:A:F:A,AU,Australia,Value,A,Not applicable,Not applicable,All,All users,,M,,M,,M,,M,,M,,M,61719.097,A,250068.493,A,576823.437,A
+A:AU:V:B:A:Z:Z:A:A:A:F:A,AU,Australia,Value,B,Not applicable,Not applicable,All,All users,,M,,M,,M,,M,,M,,M,61719.097,A,250068.493,A,576823.437,A
+A:AU:V:C:A:Z:Z:A:A:Z:A:A,AU,Australia,Value,C,Not applicable,Not applicable,All,All users,5856819.775,A,5897636.495,A,5628159.687,A,5792663.694,A,5895426.436,A,6184809.581,A,3536866.483,A,3441708.496,A,3616168.804,A
+A:AU:V:D:A:Z:Z:A:A:Z:A:A,AU,Australia,Value,D,Not applicable,Not applicable,All,All users,1206918.974,A,1220283.833,A,1228513.056,A,1228426.091,A,1154863.625,A,1110710.831,A,885147.115,A,602094.161,A,407096.124,A
+A:AU:V:E:A:Z:Z:A:A:Z:A:A,AU,Australia,Value,E,Not applicable,Not applicable,All,All users,254264.331,A,277780,A,310120,A,339340,A,361130,A,399710,A,450315.647,A,467770.289,A,458048.248,A
+A:AU:V:F:A:A:I:A:A:D:A:A,AU,Australia,Value,F,All,Inside the country,All,All users,171703.468,A,188793.672,A,207949.276,A,228047.757,A,249078.44,A,274236.922,A,311949.596,A,338024.843,A,388422.121,A
+A:AU:V:F:C:O:I:A:A:A:A:A,AU,Australia,Value,F,Outside the country,Inside the country,All,All users,17426.655,A,20466.645,A,22282.48,A,24040.826,A,25749.749,A,28174.061,A,33893.991,A,35849.892,A,21677.31,A
+A:AU:V:F:D:I:I:A:A:A:A:A,AU,Australia,Value,F,Inside the country,Inside the country,All,All users,405049.161,A,430810.57,A,463487.97,A,496011.514,A,526120.381,A,561655.432,A,608170.376,A,643541.332,A,668441.384,A
+A:AU:V:F:Z:I:A:A:A:A:A:A,AU,Australia,Value,F,Inside the country,All,All,All users,415216.918,A,437096.701,A,472706.528,A,509910.361,A,546158.184,A,585176.864,A,628524.42,A,663870.576,A,648614.682,A
+A:AU:V:F:Z:I:O:A:A:A:A:A,AU,Australia,Value,F,Inside the country,Outside the country,At ATMs,All users,8518.11,A,9421.66,A,11191.729,A,13129.36,A,15306.197,A,16894.454,A,19670.156,A,21974.024,A,13632.906,A
+A:AU:V:M:A:A:I:O:A:A:A:A,AU,Australia,Value,M,All,Inside the country,At ATMs,All users,243554.238,A,248337.68,A,245835.712,A,248843.655,A,244701.407,A,242987.499,A,218049.028,A,206036.701,A,166538.597,A
+A:AU:V:M:D:I:I:O:A:A:A:A,AU,Australia,Value,M,Inside the country,Inside the country,At ATMs,All users,239453.253,A,243774.351,A,241147.672,A,244091.958,A,240221.905,A,238707.075,A,213344.532,A,201279.301,A,164905.783,A
+A:AU:V:M:D:I:I:O:P:A:A:A,AU,Australia,Value,M,Inside the country,Inside the country,At POS,All users,26259.859,A,27321.037,A,27567.306,A,27176.387,A,26491.367,A,25115.78,A,23255.214,A,20846.042,A,14657.932,A
+A:AU:V:M:D:I:I:O:S:A:A:A,AU,Australia,Value,M,Inside the country,Inside the country,At bank branches without use of ATMs,All users,67535.707,A,74662.893,A,74398.52,A,80196.235,A,82078.185,A,84706.357,A,63137.794,A,59169.544,A,47677.405,A
+A:AU:V:M:Z:I:A:O:B:A:A:A,AU,Australia,Value,M,Inside the country,All,At ATMs,All users,153696.401,A,149300.469,A,146811.606,A,144586.64,A,139219.897,A,136593.224,A,135302.993,A,128739.97,A,107153.342,A
+A:AU:V:M:Z:I:O:O:A:A:A:A,AU,Australia,Value,M,Inside the country,Outside the country,At ATMs,All users,3017.826,A,3157.745,A,3555.724,A,4060.304,A,4081.262,A,4152.986,A,3957.47,A,3596.88,A,2011.342,A
+A:AU:V:M:Z:O:I:O:A:A:A:A,AU,Australia,Value,M,Outside the country,Inside the country,At ATMs,All users,4100.985,A,4563.329,A,4688.04,A,4751.697,A,4479.502,A,4280.424,A,4704.496,A,4757.4,A,1632.814,A
+A:BE:N:A:A:Z:Z:A:A:Z:A:A,BE,Belgium,Number,A,Not applicable,Not applicable,At ATMs,All users,2510.913,A,2701.799,A,3433.832,A,3186.738,A,3459.817,A,3772.088,A,4237.968,A,4600.98,A,4818.83,A
+A:BE:N:B:A:Z:Z:A:A:A:F:A,BE,Belgium,Number,B,Not applicable,Not applicable,At ATMs,All users,,L,,L,,L,,L,,L,,L,,L,,L,99.601,A
+A:BE:N:B:A:Z:Z:A:A:Z:A:A,BE,Belgium,Number,B,Not applicable,Not applicable,All,All users,946.766,A,1022.803,A,1366.382,A,1287.11,A,1306.05,A,1480.17,A,1595.02,A,1703.4,A,1755.4,A
+A:BE:N:C:A:Z:Z:A:A:Z:A:A,BE,Belgium,Number,C,Not applicable,Not applicable,All,All users,285.638,A,313.099,A,529.452,A,413.355,A,445.69,A,467.99,A,500.088,A,526.97,A,546.13,A
+A:BE:N:C:E:Z:Z:A:A:Z:A:A,BE,Belgium,Number,C,Not applicable,Not applicable,At ATMs,All users,,L,,L,12.562,A,19.395,A,31.44,A,43.3,A,53.99,A,57.84,A,71.99,A
+A:BE:N:D:A:Z:Z:A:A:Z:A:A,BE,Belgium,Number,D,Not applicable,Not applicable,At ATMs,All users,5.435,A,4.282,A,2.85,A,2.453,A,1.947,A,1.453,A,1.15,A,0.83,A,0.52,A
+A:BE:N:E:A:Z:Z:A:A:Z:A:A,BE,Belgium,Number,E,Not applicable,Not applicable,At ATMs,All users,,M,,M,1.218,A,0.99,A,1.43,A,1.035,A,0.64,A,0.62,A,0.49,A
+A:BE:N:F:A:A:I:A:A:D:A:A,BE,Belgium,Number,F,All,Inside the country,At ATMs,All users,1087.58,A,1168.565,A,1305.81,A,1275.53,A,1481.52,A,1564.12,A,1832.36,A,2041.17,A,2208.2,A
+A:BE:N:F:C:O:I:A:A:A:A:A,BE,Belgium,Number,F,Outside the country,Inside the country,At ATMs,All users,108.25,A,126.514,A,175.69,A,166.62,A,194.33,A,242.55,A,317.59,A,383.32,A,373.68,A
+A:BE:N:F:D:I:I:A:A:A:A:A,BE,Belgium,Number,F,Inside the country,Inside the country,At ATMs,All users,1164.824,A,1235.101,A,1358.24,A,1316.21,A,1510.37,A,1578.89,A,1823.48,A,1985.84,A,2142.61,A
+A:BE:N:F:Z:I:A:A:A:A:A:A,BE,Belgium,Number,F,Inside the country,All,At ATMs,All users,1118.628,A,1205.737,A,1159.26,A,1189.97,A,1316.11,A,1782.51,A,1948.33,A,1951.19,A,1996.23,A
+A:BE:N:F:Z:I:O:A:A:A:A:A,BE,Belgium,Number,F,Inside the country,Outside the country,All,All users,59.41,A,70.011,A,57.942,A,65.063,A,69.62,A,78.25,A,85.83,A,99.42,A,73.32,A
+A:BE:N:L:A:A:I:O:A:A:A:A,BE,Belgium,Number,L,All,Inside the country,All,All users,425.6,A,434.59,A,364.768,A,340.41,A,336.06,A,328.006,A,322.067,A,287.39,A,208.77,A
+A:BE:N:M:A:A:I:O:A:A:A:A,BE,Belgium,Number,M,All,Inside the country,All,All users,425.6,A,434.59,A,337.708,A,315.85,A,309.12,A,299.735,A,284.81,A,249.4,A,174.7,A
+A:BE:N:M:A:A:I:O:B:A:A:A,BE,Belgium,Number,M,All,Inside the country,At ATMs,All users,,L,,L,341.651,A,317.46,A,312.78,A,303.553,A,289.371,A,282.701,A,177.85,A
+A:BE:N:M:D:I:I:O:A:A:A:A,BE,Belgium,Number,M,Inside the country,Inside the country,All,All users,411.26,A,420.25,A,319.91,A,301.21,A,294.03,A,284.915,A,270.27,A,233.87,A,165.66,A
+A:BE:N:M:D:I:I:O:B:A:A:A,BE,Belgium,Number,M,Inside the country,Inside the country,At ATMs,All users,411.26,A,420.25,A,317.56,A,296.37,A,289.91,A,281.27,A,267.22,A,231.14,A,163.87,A
+A:BE:N:M:D:I:I:O:S:A:A:A,BE,Belgium,Number,M,Inside the country,Inside the country,At bank branches without use of ATMs,All users,,L,,L,2.35,A,4.84,A,4.12,A,3.645,A,3.05,A,2.73,A,1.79,A
+A:BE:N:M:Z:I:A:O:A:A:A:A,BE,Belgium,Number,M,Inside the country,All,All,All users,,L,,L,326.201,A,307.835,A,301.62,A,291.411,A,276.92,A,243.4,A,170.33,A
+A:BE:N:M:Z:I:A:O:B:A:A:A,BE,Belgium,Number,M,Inside the country,All,At ATMs,All users,420.1,A,429.05,A,323.85,A,301.819,A,296.109,A,286.094,A,272.145,A,240.669,A,168.541,A
+A:BE:N:M:Z:I:O:O:A:A:A:A,BE,Belgium,Number,M,Inside the country,Outside the country,All,All users,,L,,L,6.291,A,6.625,A,7.59,A,6.496,A,6.65,A,9.53,A,4.67,A
+A:BE:N:M:Z:O:I:O:A:A:A:A,BE,Belgium,Number,M,Outside the country,Inside the country,All,All users,14.34,A,14.34,A,17.798,A,14.64,A,15.09,A,14.82,A,14.54,A,15.53,A,9.04,A
+A:BE:N:N:A:A:I:O:A:A:A:A,BE,Belgium,Number,N,All,Inside the country,All,All users,,L,,L,25.29,A,23.07,A,24.51,A,24.48,A,32.15,A,31.3,A,25.46,A
+A:BE:N:N:D:I:I:O:A:A:A:A,BE,Belgium,Number,N,Inside the country,Inside the country,All,All users,,L,,L,25.29,A,23.07,A,24.51,A,24.48,A,32.15,A,31.3,A,24.291,A
+A:BE:N:O:A:A:I:O:A:A:A:A,BE,Belgium,Number,O,All,Inside the country,All,All users,,L,,L,1.77,A,1.49,A,2.43,A,3.791,A,5.107,A,6.69,A,8.61,A
+A:BE:N:R:A:Z:Z:A:A:A:A:A,BE,Belgium,Number,R,Not applicable,Not applicable,All,All users,,L,,L,0.354,A,0.35,A,0.424,A,0.403,A,0.65,A,21.38,A,29.27,A
+A:BE:V:A:A:Z:Z:A:A:Z:A:A,BE,Belgium,Value,A,Not applicable,Not applicable,All,All users,3831827.37,A,4159215.94,A,6900405.66,A,6292744.27,A,6194399.12,A,6204397.92,A,7290216.56,A,8473501.12,A,8067411.34,A
+A:BE:V:B:A:Z:Z:A:A:A:F:A,BE,Belgium,Value,B,Not applicable,Not applicable,All,All users,,L,,L,,L,,L,,L,,L,,L,,L,57094.417,A
+A:BE:V:C:A:Z:Z:A:A:Z:A:A,BE,Belgium,Value,C,Not applicable,Not applicable,All,All users,71250.11,A,78283.2,A,120066.362,A,101440.218,A,104517.6,A,110480.54,A,132238.43,A,140572.64,A,134994.66,A
+A:BE:V:D:A:Z:Z:A:A:Z:A:A,BE,Belgium,Value,D,Not applicable,Not applicable,All,All users,37126.8,A,33951.9,A,23962.682,A,17880.56,A,12275.21,A,8921.43,A,7250.61,A,5219.35,A,2739.19,A
+A:BE:V:E:A:Z:Z:A:A:Z:A:A,BE,Belgium,Value,E,Not applicable,Not applicable,All,All users,,M,,M,2008.608,A,1953.868,A,3289.07,A,3156.05,A,3023.03,A,2156.01,A,2016.58,A
+A:BE:V:F:A:A:I:A:A:D:A:A,BE,Belgium,Value,F,All,Inside the country,All,All users,53816.04,A,56719.47,A,63328.688,A,65230.606,A,73184.841,A,73327.04,A,76741.45,A,83062.06,A,90792.19,A
+A:BE:V:F:C:O:I:A:A:A:A:A,BE,Belgium,Value,F,Outside the country,Inside the country,All,All users,8276.08,A,9552.673,A,12468.99,A,12553.89,A,14437.26,A,15982.34,A,18716.03,A,21837.87,A,19165.11,A
+A:BE:V:F:D:I:I:A:A:A:A:A,BE,Belgium,Value,F,Inside the country,Inside the country,All,All users,58827.109,A,62098.17,A,69264.306,A,71015.893,A,77997.83,A,78220.27,A,80279.68,A,85099.98,A,91918.59,A
+A:BE:V:F:Z:I:A:A:A:A:A:A,BE,Belgium,Value,F,Inside the country,All,All,All users,66891.484,A,71510.297,A,56362.57,A,65028.71,A,80255.88,A,88191.85,A,85859.97,A,82060.26,A,80600.21,A
+A:BE:V:F:Z:I:O:A:A:A:A:A,BE,Belgium,Value,F,Inside the country,Outside the country,All,All users,4344.4,A,4684.329,A,3960.62,A,4166.68,A,4054.85,A,4292.55,A,4554.382,A,4899.68,A,3241.02,A
+A:BE:V:L:A:A:I:O:A:A:A:A,BE,Belgium,Value,L,All,Inside the country,All,All users,53213.67,A,55327.46,A,83971.296,A,67288.419,A,70309.417,A,66318.264,A,64141.726,A,68177.372,A,51460.588,A
+A:BE:V:M:A:A:I:O:A:A:A:A,BE,Belgium,Value,M,All,Inside the country,All,All users,53213.67,A,55327.46,A,50090.222,A,48421.21,A,47632.809,A,44641.402,A,44318.9,A,40663.49,A,31156.11,A
+A:BE:V:M:A:A:I:O:B:A:A:A,BE,Belgium,Value,M,All,Inside the country,At ATMs,All users,,L,,L,47316.01,A,44548.48,A,44477.43,A,42598.42,A,42791.82,A,39480.89,A,30452.8,A
+A:BE:V:M:D:I:I:O:A:A:A:A,BE,Belgium,Value,M,Inside the country,Inside the country,All,All users,51193.42,A,53232.98,A,47723.846,A,46318.58,A,45484.34,A,42537.692,A,42215.09,A,38412.37,A,29726.91,A
+A:BE:V:M:D:I:I:O:B:A:A:A,BE,Belgium,Value,M,Inside the country,Inside the country,At ATMs,All users,51193.42,A,53232.98,A,43965.03,A,41478.28,A,41368.38,A,39436.56,A,39582.8,A,35944.52,A,27941.37,A
+A:BE:V:M:D:I:I:O:S:A:A:A,BE,Belgium,Value,M,Inside the country,Inside the country,At bank branches without use of ATMs,All users,,L,,L,3758.816,A,4840.3,A,4115.96,A,3101.132,A,2632.29,A,2467.85,A,1785.54,A
+A:BE:V:M:Z:I:A:O:A:A:A:A,BE,Belgium,Value,M,Inside the country,All,At POS,All users,52466.62,A,54527.1,A,48630.186,A,47286.148,A,46394.7,A,43538.922,A,43266.61,A,39636.11,A,30763.65,A
+A:BE:V:M:Z:I:A:O:B:A:A:A,BE,Belgium,Value,M,Inside the country,All,At ATMs,All users,52466.62,A,54527.1,A,44861.724,A,42367.595,A,42109.919,A,40258.907,A,40449.359,A,37168.262,A,28978.108,A
+A:BE:V:M:Z:I:O:O:A:A:A:A,BE,Belgium,Value,M,Inside the country,Outside the country,At POS,All users,1273.2,A,1294.12,A,906.34,A,967.568,A,910.36,A,1001.23,A,1051.52,A,1223.74,A,1036.74,A
+A:BE:V:M:Z:O:I:O:A:A:A:A,BE,Belgium,Value,M,Outside the country,Inside the country,At POS,All users,2020.25,A,2094.48,A,2366.376,A,2102.63,A,2148.469,A,2103.71,A,2103.81,A,2251.12,A,1429.2,A
+A:BE:V:N:A:A:I:O:A:A:A:A,BE,Belgium,Value,N,All,Inside the country,At POS,All users,,L,,L,32872.102,A,21758.67,A,21687.157,A,20981.038,A,28263.192,A,26881.362,A,19582.278,A
+A:BE:V:N:D:I:I:O:A:A:A:A,BE,Belgium,Value,N,Inside the country,Inside the country,At POS,All users,,M,,M,32872.102,A,21758.67,A,21687.157,A,20981.038,A,28263.192,A,26881.362,A,18524.568,A
+A:BE:V:O:A:A:I:O:A:A:A:A,BE,Belgium,Value,O,All,Inside the country,At POS,All users,,L,,L,112.278,A,177.02,A,272.879,A,395.152,A,507.659,A,632.52,A,722.2,A
+A:BE:V:R:A:Z:Z:A:A:A:A:A,BE,Belgium,Value,R,Not applicable,Not applicable,At POS,All users,,L,,L,1559.586,A,1125.47,A,1254.922,A,1391.572,A,1396.46,A,6804.11,A,9792.6,A
+A:BR:N:A:A:Z:Z:A:A:A:F:A,BR,Brazil,Number,A,Not applicable,Not applicable,At POS,All users,,M,,M,,M,,M,,M,,M,,M,,M,179.128,A
+A:BR:N:B:A:Z:Z:A:A:A:F:A,BR,Brazil,Number,B,Not applicable,Not applicable,At POS,All users,,M,,M,,M,,M,,M,,M,,M,,M,179.128,A
+A:BR:N:C:A:Z:Z:A:A:Z:A:A,BR,Brazil,Number,C,Not applicable,Not applicable,At POS,All users,4239.272,A,4953.404,A,5557.065,A,5427.004,A,5335.714,A,5359.12,A,6428.746,A,6013.433,A,6102.619,A
+A:BR:N:D:A:Z:Z:A:A:Z:A:A,BR,Brazil,Number,D,Not applicable,Not applicable,At POS,All users,1430.691,A,1296.976,A,1164.816,A,1039.674,A,864.067,A,730.953,A,632.892,A,550.493,A,381.15,A
+A:BR:N:F:A:A:I:A:A:D:A:A,BR,Brazil,Number,F,All,Inside the country,All,All users,4133.461,A,4910.895,A,5631.919,A,6211.148,A,6838.684,A,7935.828,A,9032.572,A,10881.346,A,11470.916,A
+A:BR:N:F:C:O:I:A:A:A:A:A,BR,Brazil,Number,F,Outside the country,Inside the country,All,All users,129.76,A,147.144,A,153.554,A,119.976,A,107.781,A,115.981,A,97.505,A,102.633,A,55.92,A
+A:BR:N:F:D:I:I:A:A:A:A:A,BR,Brazil,Number,F,Inside the country,Inside the country,All,All users,8359.683,A,9633.224,A,10860.731,A,11727.475,A,12725.946,A,14356.842,A,16574.716,A,20896.703,A,22203.217,A
+A:BR:N:M:D:I:I:O:A:A:A:A,BR,Brazil,Number,M,Inside the country,Inside the country,At ATMs,All users,3250.781,A,3385.175,A,3529.105,A,3628.28,A,3449.018,A,3567.205,A,3407.328,A,3585.065,A,3215.384,A
+A:BR:V:A:A:Z:Z:A:A:A:F:A,BR,Brazil,Value,A,Not applicable,Not applicable,At ATMs,All users,,M,,M,,M,,M,,M,,M,,M,,L,150990.38,A
+A:BR:V:B:A:Z:Z:A:A:A:F:A,BR,Brazil,Value,B,Not applicable,Not applicable,At ATMs,All users,,M,,M,,M,,M,,M,,M,,M,,M,150990.38,A
+A:BR:V:C:A:Z:Z:A:A:Z:A:A,BR,Brazil,Value,C,Not applicable,Not applicable,At ATMs,All users,3801719.175,A,5570228.593,A,5026088.232,A,4313347.687,A,6515752.849,A,7213552.786,A,6826016.531,A,5179555.232,A,4247266.068,A
+A:BR:V:C:D:Z:Z:A:A:Z:A:A,BR,Brazil,Value,C,Not applicable,Not applicable,All,All users,3801719.175,A,5570228.593,A,5026088.232,A,4313347.687,A,6515752.849,A,7213552.786,A,6826016.531,A,5179555.232,A,4247266.068,A
+A:BR:V:D:A:Z:Z:A:A:Z:A:A,BR,Brazil,Value,D,Not applicable,Not applicable,All,All users,2891264.066,A,2916914.669,A,2801246.483,A,2579145.458,A,2187138.307,A,1888277.757,A,1673343.281,A,1521607.977,A,1103400.06,A
+A:BR:V:F:A:A:I:A:A:D:A:A,BR,Brazil,Value,F,All,Inside the country,All,All users,237991.012,A,295265.518,A,348794.091,A,389777.821,A,430625.997,A,495472.594,A,561665.035,A,667542.094,A,811519.1446,A
+A:BR:V:F:C:O:I:A:A:A:A:A,BR,Brazil,Value,F,Outside the country,Inside the country,All,All users,23343.377,A,26665.238,A,27901.851,A,25900.286,A,21736.644,A,26527.696,A,31436.574,A,36301.632,A,17486.324,A
+A:BR:V:F:D:I:I:A:A:A:A:A,BR,Brazil,Value,F,Inside the country,Inside the country,All,All users,703574.672,A,828572.095,A,943258.802,A,1037624.83,A,1109490.146,A,1229986.898,A,1413170.21,A,1749528.319,A,1988634.192,A
+A:BR:V:M:D:I:I:O:A:A:A:A,BR,Brazil,Value,M,Inside the country,Inside the country,All,All users,950633.622,A,1071986.861,A,1179568.698,A,1303323.397,A,1309813.23,A,1364091.564,A,1337143.673,A,1433110.015,A,1470407.98,A
+A:BR:V:M:D:I:I:O:B:A:A:A,BR,Brazil,Value,M,Inside the country,Inside the country,At ATMs,All users,950633.622,A,1071986.861,A,1179568.698,A,1303323.397,A,1309813.23,A,1364091.564,A,1337143.673,A,1433110.015,A,1470407.98,A
+A:CA:N:A:A:Z:Z:A:A:Z:A:A,CA,Canada,Number,A,Not applicable,Not applicable,All,All users,10126.25,A,10814.82,A,11530.91,A,11999.54,A,12610.1,A,13542.348,A,14451.644,A,14813.117,A,7676.834,A
+A:CA:N:B:A:Z:Z:A:A:Z:A:A,CA,Canada,Number,B,Not applicable,Not applicable,All,All users,1136.01,A,1225.35,A,1262.43,A,1317.64,A,1350.52,A,1381.71,A,1429.287,A,1429.756,A,1552.131,A
+A:CA:N:B:A:Z:Z:R:A:Z:A:A,CA,Canada,Number,B,Not applicable,Not applicable,At ATMs,All users,1127.41,A,1217.9,A,1256.57,A,1313.62,A,1348.28,A,1380.57,A,1428.474,A,1429.474,A,1551.982,A
+A:CA:N:C:A:Z:Z:A:A:Z:A:A,CA,Canada,Number,C,Not applicable,Not applicable,At ATMs,All users,699.27,A,728.37,A,762.32,A,791.34,A,825.92,A,871.92,A,917.636,A,941.508,A,970.595,A
+A:CA:N:D:A:Z:Z:A:A:Z:A:A,CA,Canada,Number,D,Not applicable,Not applicable,At ATMs,All users,805.45,A,761.14,A,708.86,A,648.21,A,502.67,A,551.473,A,500.911,A,443.541,A,334.943,A
+A:CA:N:E:A:Z:Z:A:A:Z:A:A,CA,Canada,Number,E,Not applicable,Not applicable,At ATMs,All users,0.71,A,0.72,A,0.54,A,0.48,A,0.41,A,0.445,A,0.397,A,0.348,A,0.154,A
+A:CA:N:F:A:A:I:A:A:D:A:A,CA,Canada,Number,F,All,Inside the country,At ATMs,All users,4357.31,A,4518.93,A,4899,A,5169,A,5428,A,5784,A,6042.313,A,6248.664,A,4819.16,A
+A:CA:V:A:A:Z:Z:A:A:Z:A:A,CA,Canada,Value,A,Not applicable,Not applicable,All,All users,6156720,A,6360620,A,6656200,A,6878420,A,6550310,A,7514056,A,7591707,A,7660362,A,6977899,A
+A:CA:V:B:A:Z:Z:A:A:Z:A:A,CA,Canada,Value,B,Not applicable,Not applicable,All,All users,2043940,A,2241870,A,2420700,A,2570250,A,2722990,A,2959844.489,A,3115910.49,A,3255914.601,A,3579294.227,A
+A:CA:V:C:A:Z:Z:A:A:Z:A:A,CA,Canada,Value,C,Not applicable,Not applicable,All,All users,574670,A,611280,A,642460,A,676940,A,695280,A,748749.34,A,818053.19,A,861269.251,A,911424.902,A
+A:CA:V:D:A:Z:Z:A:A:Z:A:A,CA,Canada,Value,D,Not applicable,Not applicable,All,All users,2990640,A,2935190,A,2977470,A,2997650,A,2465000,A,3035021.797,A,2857810.298,A,2706247.114,A,2290827.273,A
+A:CA:V:E:A:Z:Z:A:A:Z:A:A,CA,Canada,Value,E,Not applicable,Not applicable,All,All users,1350,A,1350,A,870,A,710,A,590,A,640,A,628,A,441,A,166,A
+A:CA:V:F:A:A:I:A:A:D:A:A,CA,Canada,Value,F,All,Inside the country,All,All users,190450,A,196100,A,211000,A,217000,A,222000,A,242000,A,251325,A,255250,A,196186,A
+A:CH:N:A:A:Z:Z:A:A:A:A:N,CH,Switzerland,Number,A,Not applicable,Not applicable,All,All users,,L,,L,,L,687.389,A,770.495,A,878.200741,A,1018.067294,A,1178.603568,A,1269.537423,A
+A:CH:N:B:A:Z:Z:A:A:Z:A:A,CH,Switzerland,Number,B,Not applicable,Not applicable,All,All users,928.002,A,950.314,A,961.284,A,976.008,A,973.923,A,1008.885,A,1034.573,A,1062.252,A,1094.797,A
+A:CH:N:C:A:Z:Z:A:A:Z:A:A,CH,Switzerland,Number,C,Not applicable,Not applicable,All,All users,55.3856,A,56.7586,A,57.7043,A,58.5154,A,59.7003,A,61.955,A,63.303,A,64.43,A,65.241,A
+A:CH:N:F:A:A:I:A:A:D:A:A,CH,Switzerland,Number,F,All,Inside the country,All,All users,435.565,A,460.884,A,508.764,A,668.901,A,737.478,A,817.11,A,934.308,A,1060.694,A,1182.941,A
+A:CH:N:F:C:O:I:A:A:A:A:A,CH,Switzerland,Number,F,Outside the country,Inside the country,All,All users,113.744,A,129.167,A,143.642,A,168.458,A,193.143,A,221.687,A,255.469,A,281.861,A,237.52,A
+A:CH:N:F:D:I:I:A:A:A:A:A,CH,Switzerland,Number,F,Inside the country,Inside the country,All,All users,537.564,A,571.946,A,636.034,A,819.397,A,919.289,A,1034.801,A,1193.281,A,1368.007,A,1523.487,A
+A:CH:N:F:Z:I:A:A:A:A:A:A,CH,Switzerland,Number,F,Inside the country,All,All,All users,587.0027,A,626.022,A,694.194,A,871.4643,A,981.4081,A,1106.872,A,1276.331,A,1468.52,A,1585.077,A
+A:CH:N:F:Z:I:O:A:A:A:A:A,CH,Switzerland,Number,F,Inside the country,Outside the country,All,All users,49.439,A,54.076,A,58.16,A,51.462,A,61.095,A,72.072,A,83.05,A,100.514,A,61.589,A
+A:CH:N:L:A:A:I:O:A:A:A:A,CH,Switzerland,Number,L,All,Inside the country,All,All users,138.401,A,141.259,A,143.636,A,152.689,A,151.602,A,143.29,A,147.385,A,184.939,A,164.87,A
+A:CH:N:M:A:A:I:O:A:A:A:A,CH,Switzerland,Number,M,All,Inside the country,All,All users,138.211,A,141.168,A,142.77,A,149.896,A,147.715,A,137.911,A,140.024,A,174.916,A,152.345,A
+A:CH:N:M:D:I:I:O:A:A:A:A,CH,Switzerland,Number,M,Inside the country,Inside the country,All,All users,122.362,A,124.54,A,125.64,A,130.987,A,129.309,A,119.117,A,121.807,A,157.759,A,143.118,A
+A:CH:N:M:Z:I:A:O:A:A:A:A,CH,Switzerland,Number,M,Inside the country,All,All,All users,128.195,A,130.36,A,131.468,A,136.597,A,134.742,A,124.443,A,127.119,A,163.211,A,146.335,A
+A:CH:N:M:Z:I:O:O:A:A:A:A,CH,Switzerland,Number,M,Inside the country,Outside the country,All,All users,5.833,A,5.82,A,5.828,A,5.61,A,5.433,A,5.326,A,5.312,A,5.452,A,3.217,A
+A:CH:N:M:Z:O:I:O:A:A:A:A,CH,Switzerland,Number,M,Outside the country,Inside the country,At ATMs,All users,15.849,A,16.628,A,17.299,A,18.909,A,18.406,A,18.794,A,18.217,A,17.157,A,9.227,A
+A:CH:N:O:A:A:I:O:A:A:A:A,CH,Switzerland,Number,O,All,Inside the country,At ATMs,All users,0.19,A,0.09,A,0.21,A,2.786,A,3.891,A,5.379,A,7.361,A,10.023,A,12.525,A
+A:CH:V:A:A:Z:Z:A:A:A:A:N,CH,Switzerland,Value,A,Not applicable,Not applicable,At ATMs,All users,,L,,L,,L,59038.85,A,61798.778,A,66303.90702,A,71488.71345,A,76345.99807,A,74343.17121,A
+A:CH:V:B:A:Z:Z:A:A:Z:A:A,CH,Switzerland,Value,B,Not applicable,Not applicable,At ATMs,All users,3973651.2,A,3950718.7,A,4003373.2,A,4653237.8,A,4250787.8,A,4230755.4,A,4403493.3,A,4638925.4,A,4855452.9,A
+A:CH:V:C:A:Z:Z:A:A:Z:A:A,CH,Switzerland,Value,C,Not applicable,Not applicable,At ATMs,All users,82574.7,A,85412.1,A,85045.3,A,81832.7,A,81035.7,A,83683.8,A,86462.2,A,88077.2,A,82616.8,A
+A:CH:V:F:A:A:I:A:A:D:A:A,CH,Switzerland,Value,F,All,Inside the country,At ATMs,All users,33292.6,A,34339.6,A,36084.6,A,44307.1,A,45990.3,A,47907.3,A,50932.9,A,53571.6,A,58058.1,A
+A:CH:V:F:A:A:I:A:A:Z:A:A,CH,Switzerland,Value,F,All,Inside the country,All,All users,64128.8,A,67159.5,A,70714.2,A,80703.1,A,84741.1,A,90495,A,97511.8,A,103218.2,A,100505.5,A
+A:CH:V:F:C:O:I:A:A:A:A:A,CH,Switzerland,Value,F,Outside the country,Inside the country,All,All users,16614.1,A,18097.7,A,19350.2,A,20394.2,A,21712.6,A,23930.8,A,26107.6,A,26941.6,A,17975.5,A
+A:CH:V:F:D:I:I:A:A:A:A:A,CH,Switzerland,Value,F,Inside the country,Inside the country,All,All users,47504.7,A,48941.8,A,51329.1,A,60308.9,A,63028.5,A,66564.2,A,71404.4,A,76276.5,A,82529.8,A
+A:CH:V:F:Z:I:A:A:A:A:A:A,CH,Switzerland,Value,F,Inside the country,All,All,All users,54917.4,A,56922.3,A,59657,A,68824.7,A,71815.7,A,76385.3,A,81830.5,A,87655.8,A,87958,A
+A:CH:V:F:Z:I:O:A:A:A:A:A,CH,Switzerland,Value,F,Inside the country,Outside the country,All,All users,7412.7,A,7980.5,A,8327.9,A,8415.4,A,8625,A,9820.9,A,10426.4,A,11379,A,5427.9,A
+A:CH:V:L:A:A:I:O:A:A:A:A,CH,Switzerland,Value,L,All,Inside the country,All,All users,30400.5,A,30991.6,A,31494,A,36417.9,A,36008.9,A,32831.2,A,36456.3,A,51776.8,A,54156.2,A
+A:CH:V:M:A:A:I:O:A:A:A:A,CH,Switzerland,Value,M,All,Inside the country,All,All users,30385.7,A,30984,A,31304,A,34399.5,A,33863.6,A,30530.1,A,33672.7,A,48481.7,A,51087.6,A
+A:CH:V:M:D:I:I:O:A:A:A:A,CH,Switzerland,Value,M,Inside the country,Inside the country,All,All users,26134.9,A,26536.6,A,26830.3,A,29469.2,A,29128,A,25712.2,A,28888.7,A,44043.8,A,48441.8,A
+A:CH:V:M:Z:I:A:O:A:A:A:A,CH,Switzerland,Value,M,Inside the country,All,All,All users,27388.9,A,27781,A,28066.1,A,30638,A,30273.1,A,26856.2,A,30040.3,A,45279.1,A,49254.4,A
+A:CH:V:M:Z:I:O:O:A:A:A:A,CH,Switzerland,Value,M,Inside the country,Outside the country,All,All users,1254,A,1244.4,A,1235.8,A,1168.8,A,1145.1,A,1144,A,1151.6,A,1235.3,A,812.6,A
+A:CH:V:M:Z:O:I:O:A:A:A:A,CH,Switzerland,Value,M,Outside the country,Inside the country,All,All users,4250.8,A,4447.4,A,4551.9,A,4930.3,A,4735.6,A,4817.9,A,4784,A,4437.9,A,2645.8,A
+A:CH:V:O:A:A:I:O:A:A:A:A,CH,Switzerland,Value,O,All,Inside the country,All,All users,10,A,10,A,190,A,2018.392,A,2145.262,A,2301.1,A,2783.6,A,3295.1,A,3068.6,A
+A:CN:N:A:A:Z:Z:A:A:A:F:A,CN,China,Number,A,Not applicable,Not applicable,All,All users,15993.224,A,21536.73,A,30872.091,A,57615.639,A,87002.149,A,122473.081,A,188409.275,A,303518.265,A,331677.461,A
+A:CN:N:B:A:Z:Z:A:A:Z:A:A,CN,China,Number,B,Not applicable,Not applicable,All,All users,8394.001,A,10403.173,A,13687.041,A,34928.458,A,56573.336,A,73512.968,A,99261.623,A,153111.27,A,162828.106,A
+A:CN:N:C:A:Z:Z:A:A:Z:A:A,CN,China,Number,C,Not applicable,Not applicable,All,All users,1443.216,A,1869.311,A,2600.161,A,2332.406,A,1442.776,A,1523.894,A,541.713,A,455.151,A,390.156,A
+A:CN:N:D:A:Z:Z:A:A:Z:A:A,CN,China,Number,D,Not applicable,Not applicable,All,All users,783.671,A,693.428,A,578.217,A,417.008,A,293.411,A,255.887,A,222.021,A,189.916,A,149.414,A
+A:CN:N:E:A:Z:Z:A:A:Z:A:A,CN,China,Number,E,Not applicable,Not applicable,All,All users,0,A,0,A,0,A,0.851,A,0.615,A,0.3,A,0.272,A,0.257,A,0.241,A
+A:CN:N:F:A:A:I:A:A:Z:A:A,CN,China,Number,F,All,Inside the country,All,All users,9009.224,A,12970.73,A,19754.091,A,29029.945,A,38329.074,A,58626.841,A,98336.18,A,158792.182,A,177605.166,A
+A:CN:N:L:A:A:I:O:A:A:A:A,CN,China,Number,L,All,Inside the country,All,All users,22920.765,A,26058.84,A,28701.348,A,27613.132,A,28471.459,A,26957.877,A,21949.988,A,18470.278,A,13748.155,A
+A:CN:N:M:A:A:I:O:A:A:A:A,CN,China,Number,M,All,Inside the country,All,All users,16133.736,A,18117.128,A,19910.971,A,18420.922,A,17997.746,A,17316.589,A,14086.661,A,11385.259,A,8312.482,A
+A:CN:N:M:A:A:I:O:B:A:A:A,CN,China,Number,M,All,Inside the country,At ATMs,All users,11452.561,A,12874.528,A,13715.11,A,14568.407,A,15692.769,A,15453.479,A,12369.465,A,9642.846,A,6614.478,A
+A:CN:N:M:D:I:I:O:B:A:A:A,CN,China,Number,M,Inside the country,Inside the country,At ATMs,All users,,L,,L,,L,14568.407,A,15692.769,A,15453.479,A,12369.465,A,9642.846,A,6614.478,A
+A:CN:N:N:A:A:I:O:A:A:A:A,CN,China,Number,N,All,Inside the country,All,All users,6787.03,A,7941.712,A,8790.378,A,9192.21,A,10473.713,A,9641.288,A,7863.327,A,7085.019,A,5435.672,A
+A:CN:V:A:A:Z:Z:A:A:A:F:A,CN,China,Value,A,Not applicable,Not applicable,All,All users,227137283.6,A,285955426.8,A,304845601.2,A,525697989.7,A,599142505.8,A,628654328.8,A,743176265.2,A,781859881.2,A,807032019,A
+A:CN:V:B:A:Z:Z:A:A:Z:A:A,CN,China,Value,B,Not applicable,Not applicable,All,All users,835317714.4,A,1134537943,A,1341177089,A,2880634161,A,3217823056,A,3340655040,A,3366451050,A,3370911341,A,3643221108,A
+A:CN:V:C:A:Z:Z:A:A:Z:A:A,CN,China,Value,C,Not applicable,Not applicable,All,All users,14723933.58,A,16086404.4,A,18779735.97,A,128126015.5,A,79534145.3,A,43092622.88,A,39437053.56,A,50283351.51,A,45478155,A
+A:CN:V:D:A:Z:Z:A:A:Z:A:A,CN,China,Value,D,Not applicable,Not applicable,All,All users,296366117.1,A,287696851.6,A,269985534.9,A,238231966.1,A,187793670.4,A,172370486.2,A,148862980,A,133810185.7,A,123783499,A
+A:CN:V:E:A:Z:Z:A:A:Z:A:A,CN,China,Value,E,Not applicable,Not applicable,All,All users,0,A,0,A,0,A,2743248.019,A,2916620.521,A,2163631.501,A,2233217.428,A,2798115.934,A,2894633,A
+A:CN:V:F:A:A:I:A:A:Z:A:A,CN,China,Value,F,All,Inside the country,All,All users,20827283.6,A,31835426.8,A,42385601.2,A,55000513.48,A,56498195.89,A,68666215.61,A,92758525.55,A,117149956.3,A,116659261.4,A
+A:CN:V:L:A:A:I:O:A:A:A:A,CN,China,Value,L,All,Inside the country,All,All users,119074642,A,137404726,A,145056618,A,144117576.1,A,142669755.3,A,132993492.3,A,118927421.1,A,104534545.5,A,80970194,A
+A:CN:V:M:A:A:I:O:A:A:A:A,CN,China,Value,M,All,Inside the country,All,All users,61365867,A,70798880,A,74413796,A,73148829.5,A,65495616.64,A,65072821.36,A,58900296.93,A,51651298.44,A,39666524,A
+A:CN:V:M:A:A:I:O:B:A:A:A,CN,China,Value,M,All,Inside the country,At ATMs,All users,15264322.81,A,19355128.81,A,21826498.8,A,24006370,A,25723670,A,28459709.08,A,25450028.24,A,21518859.13,A,15705334,A
+A:CN:V:M:D:I:I:O:B:A:A:A,CN,China,Value,M,Inside the country,Inside the country,At ATMs,All users,,L,,L,,L,24006370,A,25723670,A,28459709.08,A,25450028.24,A,21518859.13,A,15705334,A
+A:CN:V:N:A:A:I:O:A:A:A:A,CN,China,Value,N,All,Inside the country,At POS,All users,57708775,A,66605846,A,70642822,A,70968746.58,A,77174138.61,A,67920670.94,A,60027124.19,A,52883247.08,A,41303670,A
+A:DE:N:A:A:Z:Z:A:A:A:A:N,DE,Germany,Number,A,Not applicable,Not applicable,At POS,All users,,L,,L,236.315,A,290.237,A,344.032,A,428.112,A,452.678,A,425.161,A,468.715,A
+A:DE:N:B:A:Z:Z:A:A:Z:A:A,DE,Germany,Number,B,Not applicable,Not applicable,At POS,All users,6151.03,A,6217.392,A,5633.104,A,6019.733,A,6186.156,A,6298.557,A,6468.172,A,6677.339,A,6898.448,A
+A:DE:N:C:A:Z:Z:A:A:Z:A:A,DE,Germany,Number,C,Not applicable,Not applicable,At POS,All users,8809.46,A,9676.401,A,8489.412,A,9605.947,A,9646.976,A,10063.925,A,10214.651,A,10579.387,A,11300.638,A
+A:DE:N:D:A:Z:Z:A:A:Z:A:A,DE,Germany,Number,D,Not applicable,Not applicable,At POS,All users,34.41,A,31.326,A,29.878,A,21.395,A,17.511,A,12.848,A,10.493,A,8.333,A,6.182,A
+A:DE:N:F:A:A:I:A:A:D:A:A,DE,Germany,Number,F,All,Inside the country,At POS,All users,2579.08,A,2885.331,A,2595.062,A,2722.571,A,2963.43,A,3275.38,A,3913.771,A,4715.901,A,5916.021,A
+A:DE:N:F:A:A:I:A:A:E:A:A,DE,Germany,Number,F,All,Inside the country,All,All users,559.72,A,681.541,A,762.458,A,879.011,A,984.01,A,1100.781,A,1260.32,A,1434.814,A,1470.467,A
+A:DE:N:F:A:A:I:A:A:H:A:A,DE,Germany,Number,F,All,Inside the country,At ATMs,All users,33.6,A,31.763,A,34.02,A,32.351,A,36.8,A,35.511,A,34.642,A,33.476,A,27.109,A
+A:DE:N:F:C:O:I:A:A:A:A:A,DE,Germany,Number,F,Outside the country,Inside the country,At ATMs,All users,,L,,L,413.296,A,595.724,A,653.402,A,787.88,A,907.226,A,1056.616,A,994.287,A
+A:DE:N:F:D:I:I:A:A:A:A:A,DE,Germany,Number,F,Inside the country,Inside the country,At ATMs,All users,,L,,L,3054.598,A,3127.223,A,3427.294,A,3733.828,A,4427.645,A,5272.727,A,6562.688,A
+A:DE:N:L:A:A:I:O:A:A:A:A,DE,Germany,Number,L,All,Inside the country,At ATMs,All users,2707.76,A,2674.917,A,2577.982,A,2691.982,A,2687.196,A,2608.103,A,2544.703,A,2444.378,A,1915.289,A
+A:DE:N:M:A:A:I:O:A:A:A:A,DE,Germany,Number,M,All,Inside the country,At ATMs,All users,2427.68,A,2396.347,A,2309.194,A,2421.669,A,2418.002,A,2345.891,A,2284.477,A,2192.162,A,1697.665,A
+A:DE:N:M:D:I:I:O:A:A:A:A,DE,Germany,Number,M,Inside the country,Inside the country,At ATMs,All users,2427.68,A,2396.347,A,2273.331,A,2372.833,A,2366.167,A,2293.139,A,2228.264,A,2131.89,A,1664.584,A
+A:DE:N:M:D:I:I:O:P:A:A:A,DE,Germany,Number,M,Inside the country,Inside the country,At POS,All users,,L,,L,6.518,A,6.589,A,5.837,A,5.819,A,5.228,A,5.603,A,4.388,A
+A:DE:N:M:D:I:I:O:S:A:A:A,DE,Germany,Number,M,Inside the country,Inside the country,At bank branches without use of ATMs,All users,257.36,A,237.779,A,235.515,A,204.759,A,184.269,A,158.313,A,138.925,A,120.359,A,86.47,A
+A:DE:N:M:Z:I:A:O:A:A:A:A,DE,Germany,Number,M,Inside the country,All,At ATMs,All users,2427.68,A,2396.347,A,2306.003,A,2400.175,A,2406.993,A,2334.971,A,2270.168,A,2172.998,A,1689.393,A
+A:DE:N:M:Z:O:I:O:A:A:A:A,DE,Germany,Number,M,Outside the country,Inside the country,At ATMs,All users,,L,,L,35.863,A,48.836,A,51.835,A,52.752,A,56.213,A,60.272,A,33.081,A
+A:DE:N:N:A:A:I:O:A:A:A:A,DE,Germany,Number,N,All,Inside the country,At ATMs,All users,273.88,A,271.941,A,262.779,A,265.522,A,265.257,A,258.797,A,257.16,A,249.38,A,215.792,A
+A:DE:N:N:D:I:I:O:A:A:A:A,DE,Germany,Number,N,Inside the country,Inside the country,At ATMs,All users,273.88,A,271.941,A,262.779,A,265.522,A,265.257,A,258.797,A,257.16,A,249.38,A,215.792,A
+A:DE:N:O:A:A:I:O:A:A:A:A,DE,Germany,Number,O,All,Inside the country,At ATMs,All users,6.2,A,6.629,A,,L,,L,,L,2.6,A,2.131,A,1.894,A,1.047,A
+A:DE:V:A:A:Z:Z:A:A:A:A:N,DE,Germany,Value,A,Not applicable,Not applicable,All,All users,,L,,L,39836.197,A,47951.955,A,53976.22,A,61053.998,A,68179.634,A,76382.718,A,92273.164,A
+A:DE:V:B:A:Z:Z:A:A:Z:A:A,DE,Germany,Value,B,Not applicable,Not applicable,All,All users,58042072,A,56981528,A,48850207.66,A,50359209.25,A,49643317.02,A,51289482.68,A,51748520.91,A,54799508.75,A,56872050.73,A
+A:DE:V:C:A:Z:Z:A:A:Z:A:A,DE,Germany,Value,C,Not applicable,Not applicable,All,All users,13225052,A,13349970,A,3290726.55,A,3718964.113,A,3512099.702,A,3464187.663,A,3598977.366,A,3797903.958,A,3975537.326,A
+A:DE:V:D:A:Z:Z:A:A:Z:A:A,DE,Germany,Value,D,Not applicable,Not applicable,All,All users,226936,A,201367,A,170467.504,A,155028.187,A,150969.11,A,109133.14,A,90084.553,A,72451.613,A,50677.98,A
+A:DE:V:F:A:A:I:A:A:D:A:A,DE,Germany,Value,F,All,Inside the country,All,All users,145888,A,163100,A,152219.82,A,160497.464,A,167130.781,A,182450.948,A,205779.602,A,231758.06,A,267670.474,A
+A:DE:V:F:C:O:I:A:A:A:A:A,DE,Germany,Value,F,Outside the country,Inside the country,All,All users,,L,,L,37348.35,A,44612.75,A,45641.563,A,52561.43,A,57601.501,A,63882.299,A,51555.664,A
+A:DE:V:F:D:I:I:A:A:A:A:A,DE,Germany,Value,F,Inside the country,Inside the country,All,All users,,L,,L,198249.745,A,201642.104,A,212344.753,A,228383.067,A,257375.243,A,287488.277,A,313093.144,A
+A:DE:V:L:A:A:I:O:A:A:A:A,DE,Germany,Value,L,All,Inside the country,All,All users,1273508,A,1237758.046,A,972801.197,A,1022116.674,A,1007197.034,A,973124.371,A,958668.426,A,938165.926,A,805625.759,A
+A:DE:V:M:A:A:I:O:A:A:A:A,DE,Germany,Value,M,All,Inside the country,All,All users,661573,A,649510.046,A,588768.589,A,619369.42,A,620875.06,A,601784.838,A,593313.118,A,584040.073,A,502748.645,A
+A:DE:V:M:A:A:I:O:B:A:A:A,DE,Germany,Value,M,All,Inside the country,At ATMs,All users,342270,A,345148,A,342608.986,A,373410.367,A,387388.78,A,391886.018,A,396088.693,A,397075.059,A,348639.779,A
+A:DE:V:M:D:I:I:O:A:A:A:A,DE,Germany,Value,M,Inside the country,Inside the country,All,All users,661573,A,649510,A,582057.409,A,610123.816,A,611117.209,A,591673.821,A,582691.819,A,572603.768,A,495805.96,A
+A:DE:V:M:D:I:I:O:B:A:A:A,DE,Germany,Value,M,Inside the country,Inside the country,At ATMs,All users,342270,A,345148,A,335897.806,A,364164.763,A,377630.929,A,381775.001,A,385467.394,A,385638.754,A,341697.094,A
+A:DE:V:M:D:I:I:O:P:A:A:A,DE,Germany,Value,M,Inside the country,Inside the country,At POS,All users,,,,,790.945,A,851.457,A,833.919,A,891.898,A,798.387,A,876.212,A,731.115,A
+A:DE:V:M:D:I:I:O:S:A:A:A,DE,Germany,Value,M,Inside the country,Inside the country,At bank branches without use of ATMs,All users,310783,A,295701,A,245368.658,A,245107.596,A,232652.361,A,209006.922,A,196426.038,A,186088.802,A,153377.751,A
+A:DE:V:M:Z:I:A:O:A:A:A:A,DE,Germany,Value,M,Inside the country,All,All,All users,661573,A,649510,A,587971.294,A,614828.809,A,617869.963,A,598408.26,A,589383.947,A,579236.435,A,500638.114,A
+A:DE:V:M:Z:I:A:O:B:A:A:A,DE,Germany,Value,M,Inside the country,All,At ATMs,All users,342270,A,345147.544,A,341811.691,A,368869.756,A,384383.683,A,388509.44,A,392159.522,A,392271.421,A,346529.248,A
+A:DE:V:M:Z:O:I:O:A:A:A:A,DE,Germany,Value,M,Outside the country,Inside the country,All,All users,,L,,L,6711.18,A,9245.604,A,9757.851,A,10111.017,A,10621.299,A,11436.305,A,6942.685,A
+A:DE:V:N:A:A:I:O:A:A:A:A,DE,Germany,Value,N,All,Inside the country,All,All users,611752,A,588088,A,383833.85,A,402591.423,A,386187.057,A,371225.184,A,365252.911,A,354034.058,A,302811.605,A
+A:DE:V:N:D:I:I:O:A:A:A:A,DE,Germany,Value,N,Inside the country,Inside the country,All,All users,611752,A,588088,A,383833.85,A,402591.423,A,386187.057,A,371225.184,A,365252.911,A,354034.058,A,302811.605,A
+A:DE:V:O:A:A:I:O:A:A:A:A,DE,Germany,Value,O,All,Inside the country,All,All users,183,A,160,A,,L,,L,,L,87.789,A,72.663,A,62.287,A,39.935,A
+A:ES:N:A:A:Z:Z:A:A:A:A:N,ES,Spain,Number,A,Not applicable,Not applicable,All,All users,,L,,L,48.544,A,63.407,A,153.504,A,169.506,A,99.925,A,146.133,A,216.744,A
+A:ES:N:B:A:Z:Z:A:A:Z:A:A,ES,Spain,Number,B,Not applicable,Not applicable,All,All users,,L,,L,917.775,A,881.754,A,1032.947,A,1149.664,A,1141.441,A,1426.609,A,1328.975,A
+A:ES:N:C:A:Z:Z:A:A:Z:A:A,ES,Spain,Number,C,Not applicable,Not applicable,All,All users,,L,,L,2252.25,A,2079.217,A,2092.601,A,2561.089,A,2406.043,A,2383.785,A,2340.551,A
+A:ES:N:D:A:Z:Z:A:A:Z:A:A,ES,Spain,Number,D,Not applicable,Not applicable,All,All users,,L,,L,83.337,A,78.755,A,75.074,A,71.456,A,57.481,A,52.558,A,36.825,A
+A:ES:N:E:A:Z:Z:A:A:Z:A:A,ES,Spain,Number,E,Not applicable,Not applicable,All,All users,,L,,L,476.29,A,448.385,A,404.6,A,355.462,A,298.944,A,262.015,A,162.204,A
+A:ES:N:F:A:A:I:A:A:D:A:A,ES,Spain,Number,F,All,Inside the country,All,All users,1096.289,A,1174.664,A,1387.4,A,1712.143,A,2100.356,A,2519.555,A,3221.219,A,3863.658,A,4177.74,A
+A:ES:N:F:C:O:I:A:A:A:A:A,ES,Spain,Number,F,Outside the country,Inside the country,All,All users,,L,,L,220.1,A,253.121,A,350.841,A,413.371,A,520.436,A,623.337,A,686.702,A
+A:ES:N:F:D:I:I:A:A:A:A:A,ES,Spain,Number,F,Inside the country,Inside the country,All,All users,,L,,L,2540.068,A,2734.122,A,3112.892,A,3625.187,A,4182.853,A,4961.263,A,5338.177,A
+A:ES:N:F:Z:I:A:A:A:A:A:A,ES,Spain,Number,F,Inside the country,All,At ATMs,All users,,L,,L,2709.098,A,2891.569,A,3298.644,A,3795.257,A,4340.951,A,4982.711,A,4904.74,A
+A:ES:N:F:Z:I:O:A:A:A:A:A,ES,Spain,Number,F,Inside the country,Outside the country,At ATMs,All users,,L,,L,214.521,A,264.782,A,318.291,A,388.058,A,457.339,A,560.109,A,303.084,A
+A:ES:N:L:A:A:I:O:A:A:A:A,ES,Spain,Number,L,All,Inside the country,At ATMs,All users,,L,,L,1089.498,A,1111.402,A,1119.51,A,1127.533,A,1136.391,A,1131.035,A,806.467,A
+A:ES:N:M:A:A:I:O:A:A:A:A,ES,Spain,Number,M,All,Inside the country,At ATMs,All users,227.743,A,218.335,A,1047.798,A,1057.899,A,1046.325,A,1038.415,A,1022.316,A,982.818,A,672.221,A
+A:ES:N:M:D:I:I:O:A:A:A:A,ES,Spain,Number,M,Inside the country,Inside the country,At ATMs,All users,227.743,A,218.335,A,1047.798,A,1048.589,A,1036.295,A,1028.164,A,1012.202,A,972.863,A,667.086,A
+A:ES:N:M:D:I:I:O:S:A:A:A,ES,Spain,Number,M,Inside the country,Inside the country,At bank branches without use of ATMs,All users,227.743,A,218.335,A,185.482,A,173.182,A,157.375,A,138.301,A,115.023,A,100.442,A,56.44,A
+A:ES:N:M:Z:I:A:O:A:A:A:A,ES,Spain,Number,M,Inside the country,All,At ATMs,All users,227.743,A,218.335,A,1090.56,A,1091.906,A,1080.853,A,1072.727,A,1055.305,A,1011.715,A,683.947,A
+A:ES:N:M:Z:I:O:O:A:A:A:A,ES,Spain,Number,M,Inside the country,Outside the country,At ATMs,All users,,L,,L,42.762,A,43.317,A,44.558,A,44.563,A,43.103,A,38.852,A,16.861,A
+A:ES:N:M:Z:O:I:O:A:A:A:A,ES,Spain,Number,M,Outside the country,Inside the country,At ATMs,All users,,L,,L,,L,9.31,A,10.03,A,10.251,A,10.114,A,9.955,A,5.135,A
+A:ES:N:N:A:A:I:O:A:A:A:A,ES,Spain,Number,N,All,Inside the country,At ATMs,All users,,M,,M,41.7,A,53.503,A,73.185,A,89.118,A,114.075,A,148.217,A,134.246,A
+A:ES:N:N:D:I:I:O:A:A:A:A,ES,Spain,Number,N,Inside the country,Inside the country,At ATMs,All users,,M,,M,41.697,A,53.503,A,73.184,A,89.118,A,113.985,A,148.217,A,134.246,A
+A:ES:N:O:A:A:I:O:A:A:A:A,ES,Spain,Number,O,All,Inside the country,At ATMs,All users,0.107,A,0,A,0,A,0,A,0,A,0,A,0,A,0,A,0,A
+A:ES:N:R:A:Z:Z:A:A:A:A:A,ES,Spain,Number,R,Not applicable,Not applicable,At ATMs,All users,,L,,L,,L,13.026,A,13.912,A,15.108,A,16.746,A,19.248,A,18.564,A
+A:ES:V:A:A:Z:Z:A:A:A:A:N,ES,Spain,Value,A,Not applicable,Not applicable,At ATMs,All users,,L,,L,4872398.57,A,5466866.28,A,5142706.57,A,1251703.37,A,1234824.49,A,1438042.09,A,1126215.99,A
+A:ES:V:B:A:Z:Z:A:A:Z:A:A,ES,Spain,Value,B,Not applicable,Not applicable,At ATMs,All users,,L,,L,16248060.8,A,15540914,A,14964976,A,10197537.9,A,9798153.4,A,9916189.12,A,9510934.63,A
+A:ES:V:B:A:Z:Z:Q:A:Z:A:A,ES,Spain,Value,B,Not applicable,Not applicable,All,All users,1671105.7,A,1260503.69,A,10585352.1,A,10532061.5,A,9708835.29,A,4539765.87,A,3998940.4,A,3838554.55,A,3766505.39,A
+A:ES:V:C:A:Z:Z:A:A:Z:A:A,ES,Spain,Value,C,Not applicable,Not applicable,All,All users,,L,,L,570895.447,A,531825.875,A,534090.872,A,644607.55,A,614393.752,A,672731.046,A,560563.066,A
+A:ES:V:D:A:Z:Z:A:A:Z:A:A,ES,Spain,Value,D,Not applicable,Not applicable,All,All users,403160.163,A,344326.2,A,390040.573,A,414549.77,A,433746.332,A,476265.948,A,331913.008,A,338141.549,A,227808.293,A
+A:ES:V:E:A:Z:Z:A:A:Z:A:A,ES,Spain,Value,E,Not applicable,Not applicable,All,All users,,L,,L,489114.935,A,460639.873,A,424931.654,A,423832.188,A,367128.226,A,388074.327,A,252574.428,A
+A:ES:V:F:A:A:I:A:A:D:A:A,ES,Spain,Value,F,All,Inside the country,All,All users,45413.789,A,47928.129,A,56181.665,A,67657.245,A,80523.035,A,92732.731,A,114979.257,A,129872.732,A,136085.789,A
+A:ES:V:F:A:A:I:P:A:A:A:A,ES,Spain,Value,F,All,Inside the country,At ATMs,All users,,L,,L,107324.385,A,113245.022,A,126329.451,A,139390.653,A,151683.61,A,165259.181,A,161097.901,A
+A:ES:V:F:C:O:I:A:A:A:A:A,ES,Spain,Value,F,Outside the country,Inside the country,At ATMs,All users,,L,,L,11700,A,13670.061,A,17191.15,A,18323.683,A,21776.609,A,26219.898,A,24692.175,A
+A:ES:V:F:D:I:I:A:A:A:A:A,ES,Spain,Value,F,Inside the country,Inside the country,At ATMs,All users,,L,,L,110213.722,A,117379.168,A,130564.408,A,148249.832,A,164919.378,A,184341.583,A,187629.436,A
+A:ES:V:F:Z:I:A:A:A:A:A:A,ES,Spain,Value,F,Inside the country,All,At ATMs,All users,,L,,L,121822.021,A,128158.884,A,142297.025,A,159573.787,A,171673.68,A,181965.245,A,163670.591,A
+A:ES:V:F:Z:I:O:A:A:A:A:A,ES,Spain,Value,F,Inside the country,Outside the country,At ATMs,All users,,L,,L,15215.446,A,17378.525,A,19770.019,A,22905.893,A,23993.69,A,26443.145,A,11911.645,A
+A:ES:V:L:A:A:I:O:A:A:A:A,ES,Spain,Value,L,All,Inside the country,At ATMs,All users,,L,,L,247825.173,A,263680.778,A,267021.443,A,277944.709,A,271946.175,A,293641.815,A,226920.181,A
+A:ES:V:M:A:A:I:O:A:A:A:A,ES,Spain,Value,M,All,Inside the country,At ATMs,All users,208423.558,A,214975.476,A,247825.173,A,241776.245,A,235600.319,A,239021.111,A,222213.736,A,230021.077,A,168488.112,A
+A:ES:V:M:D:I:I:O:A:A:A:A,ES,Spain,Value,M,Inside the country,Inside the country,At ATMs,All users,208423.558,A,214975.476,A,247825.173,A,240441.974,A,234201.98,A,237620.405,A,220856.361,A,228635.885,A,167668.44,A
+A:ES:V:M:D:I:I:O:S:A:A:A,ES,Spain,Value,M,Inside the country,Inside the country,At bank branches without use of ATMs,All users,208423.558,A,214975.476,A,143139.786,A,132352.528,A,123249.924,A,122280.491,A,102238.549,A,109597.992,A,68405.714,A
+A:ES:V:M:Z:I:A:O:A:A:A:A,ES,Spain,Value,M,Inside the country,All,At ATMs,All users,208423.558,A,214975.476,A,254687.948,A,247439.466,A,241332.611,A,244859.368,A,227931.162,A,235198.809,A,171019.814,A
+A:ES:V:M:Z:I:O:O:A:A:A:A,ES,Spain,Value,M,Inside the country,Outside the country,At ATMs,All users,,L,,L,6862.775,A,6997.492,A,7130.631,A,7238.963,A,7074.801,A,6562.924,A,3351.374,A
+A:ES:V:M:Z:O:I:O:A:A:A:A,ES,Spain,Value,M,Outside the country,Inside the country,At ATMs,All users,,L,,L,,L,1334.271,A,1398.339,A,1400.706,A,1357.375,A,1385.192,A,819.672,A
+A:ES:V:N:A:A:I:O:A:A:A:A,ES,Spain,Value,N,All,Inside the country,All,All users,,L,,L,,L,21904.533,A,31421.124,A,38923.598,A,49732.439,A,63620.738,A,58432.069,A
+A:ES:V:N:D:I:I:O:A:A:A:A,ES,Spain,Value,N,Inside the country,Inside the country,All,All users,,L,,L,17453.267,A,21904.533,A,31420.62,A,38923.515,A,49715.407,A,63620.738,A,58432.069,A
+A:ES:V:O:A:A:I:O:A:A:A:A,ES,Spain,Value,O,All,Inside the country,All,All users,0.51,A,0,A,0,A,0,A,0,A,0,A,0,A,0,A,0,A
+A:ES:V:R:A:Z:Z:A:A:A:A:A,ES,Spain,Value,R,Not applicable,Not applicable,All,All users,,L,,L,,L,3694.477,A,4089.276,A,4471.13,A,5013.841,A,5714.978,A,5102.452,A
+A:FR:N:A:A:Z:Z:A:A:A:F:A,FR,France,Number,A,Not applicable,Not applicable,All,All users,,L,,L,,L,,L,,L,,L,,M,,M,,M
+A:FR:N:B:A:Z:Z:A:A:A:F:A,FR,France,Number,B,Not applicable,Not applicable,All,All users,,L,,L,,L,,L,,L,,L,,M,,M,,M
+A:FR:N:C:A:Z:Z:A:A:Z:A:A,FR,France,Number,C,Not applicable,Not applicable,All,All users,3543.4,A,3107.7,A,3541.463,A,3879.074,A,3962.649,A,4091.288,A,4211.089,A,4370,A,4622,A
+A:FR:N:D:A:Z:Z:A:A:Z:A:A,FR,France,Number,D,Not applicable,Not applicable,All,All users,2805.6,A,2620.6,A,2482.822,A,2311.454,A,2137.452,A,1926.658,A,1746.881,A,1587,A,1175,A
+A:FR:N:E:A:Z:Z:A:A:Z:A:A,FR,France,Number,E,Not applicable,Not applicable,All,All users,94.9,A,92.7,A,25.929,A,72.462,A,82,A,81,A,81,A,78,A,72,A
+A:FR:N:F:A:A:I:A:A:D:A:A,FR,France,Number,F,All,Inside the country,All,All users,,L,,L,4924.169,A,6124.527,A,7634.531,A,8335.107,A,9334.996,A,10121,A,9931,A
+A:FR:N:F:D:I:I:A:A:H:A:A,FR,France,Number,F,Inside the country,Inside the country,All,All users,,L,,L,,L,,L,,L,,L,55.457,A,61,A,34,A
+A:FR:N:F:Z:I:A:A:A:H:A:A,FR,France,Number,F,Inside the country,All,All,All users,,L,,L,,L,,L,,L,,L,6.087,A,1,A,2,A
+A:FR:N:F:Z:I:O:A:A:A:A:A,FR,France,Number,F,Inside the country,Outside the country,All,All users,,L,,L,,L,,L,,L,,L,790.498,A,1064,A,917,A
+A:FR:N:L:A:A:I:O:A:A:A:A,FR,France,Number,L,All,Inside the country,All,All users,,L,,L,,L,,L,2704.45,A,1618.861,A,2285.369,A,2306,A,1843,A
+A:FR:N:M:A:A:I:O:A:A:A:A,FR,France,Number,M,All,Inside the country,All,All users,,L,1655,A,1607.166,A,1719.062,A,1682.347,A,1576.661,A,1518.928,A,1471,A,1132,A
+A:FR:N:M:D:I:I:O:A:A:A:A,FR,France,Number,M,Inside the country,Inside the country,All,All users,,L,1606.3,A,1570.566,A,1670.462,A,1634.147,A,1533.061,A,1473.399,A,1428,A,1111,A
+A:FR:N:M:D:I:I:O:B:A:A:A,FR,France,Number,M,Inside the country,Inside the country,At ATMs,All users,,L,1606.3,A,1570.566,A,1670.462,A,1634.147,A,1533.061,A,1473.399,A,1428,A,1111,A
+A:FR:N:M:Z:I:A:O:A:A:A:A,FR,France,Number,M,Inside the country,All,All,All users,,L,1646.8,A,1605.666,A,1704.762,A,1668.047,A,1567.561,A,1513.319,A,1513.319,A,1143.391,A
+A:FR:N:M:Z:I:A:O:B:A:A:A,FR,France,Number,M,Inside the country,All,At ATMs,All users,1622.5,A,1606.3,A,1570.566,A,1670.462,A,1634.147,A,1533.061,A,1473.399,A,1428,A,1111,A
+A:FR:N:M:Z:I:O:O:A:A:A:A,FR,France,Number,M,Inside the country,Outside the country,All,All users,,L,40.5,A,35.1,A,34.3,A,33.9,A,34.5,A,39.923391,A,39.923,A,32.391,A
+A:FR:N:M:Z:O:I:O:A:A:A:A,FR,France,Number,M,Outside the country,Inside the country,All,All users,,L,48.7,A,36.6,A,48.6,A,48.2,A,43.6,A,45.529,A,43,A,21,A
+A:FR:N:N:A:A:I:O:A:A:A:A,FR,France,Number,N,All,Inside the country,All,All users,,L,,L,29.4,A,191.1,A,1022.1,A,42.2,A,46.696,A,241,A,64,A
+A:FR:N:N:D:I:I:O:A:A:A:A,FR,France,Number,N,Inside the country,Inside the country,All,All users,,L,,L,29.4,A,191.1,A,941.8,A,42.2,A,46.66,A,85,A,64,A
+A:FR:N:R:A:Z:Z:A:A:A:A:A,FR,France,Number,R,Not applicable,Not applicable,All,All users,,L,,L,0.3,A,0.0435,A,1.3,A,1.4,A,1.378,A,4,A,3,A
+A:FR:V:A:A:Z:Z:A:A:A:F:A,FR,France,Value,A,Not applicable,Not applicable,All,All users,,M,,M,,M,,M,,M,,M,,M,,M,,M
+A:FR:V:B:A:Z:Z:A:A:A:F:A,FR,France,Value,B,Not applicable,Not applicable,All,All users,,L,,L,,L,,L,,L,,L,,M,,M,,M
+A:FR:V:C:A:Z:Z:A:A:Z:A:A,FR,France,Value,C,Not applicable,Not applicable,All,All users,1310900,A,1399300,A,1378418.66,A,1451176.893,A,1492132.381,A,1578641.664,A,1640006.58,A,1710931,A,1684241,A
+A:FR:V:D:A:Z:Z:A:A:Z:A:A,FR,France,Value,D,Not applicable,Not applicable,All,All users,1628500,A,1320000,A,1216035.164,A,1172842.155,A,1077314.255,A,1001866.559,A,891047.244,A,814531,A,613940,A
+A:FR:V:E:A:Z:Z:A:A:Z:A:A,FR,France,Value,E,Not applicable,Not applicable,All,All users,356500,A,330300,A,310750,A,292811,A,266,A,260,A,252,A,233,A,197,A
+A:FR:V:F:A:A:I:A:A:D:A:A,FR,France,Value,F,All,Inside the country,All,All users,,L,,L,215762.533,A,258011.87,A,310065.738,A,331745.1,A,361481.675,A,394455,A,386485,A
+A:FR:V:F:D:I:I:A:A:A:A:A,FR,France,Value,F,Inside the country,Inside the country,All,All users,,,,,243.421,A,247.245,A,270.21,A,405.361,A,555.103,A,525,A,579,A
+A:FR:V:F:Z:I:A:A:A:H:A:A,FR,France,Value,F,Inside the country,All,All,All users,,L,,L,0.924,A,154.646,A,320.712,A,493.514,A,369.697,A,37,A,109,A
+A:FR:V:F:Z:I:O:A:A:A:A:A,FR,France,Value,F,Inside the country,Outside the country,All,All users,,L,,L,41464.127,A,39519.924,A,32098.82,A,40431.905,A,48041.652,A,54590,A,43366,A
+A:FR:V:L:A:A:I:O:A:A:A:A,FR,France,Value,L,All,Inside the country,At ATMs,All users,,L,,L,,L,,L,,L,,L,,M,,M,165228,A
+A:FR:V:M:A:A:I:O:A:A:A:A,FR,France,Value,M,All,Inside the country,At ATMs,All users,,L,135600,A,133300,A,144600,A,146700,A,147100,A,187840.142,A,198221,A,165228,A
+A:FR:V:M:D:I:I:O:A:A:A:A,FR,France,Value,M,Inside the country,Inside the country,At ATMs,All users,,L,129600,A,128800,A,138600,A,140200,A,141200,A,141358.687,A,142801,A,123931,A
+A:FR:V:M:Z:I:A:O:B:A:A:A,FR,France,Value,M,Inside the country,All,At ATMs,All users,,L,,L,128770.688,A,138555.892,A,140212.707,A,141152.396,A,141358.687,A,142801,A,123931,A
+A:FR:V:M:Z:O:I:O:A:A:A:A,FR,France,Value,M,Outside the country,Inside the country,At ATMs,All users,,L,6000,A,4500,A,6000,A,6500,A,5900,A,5714.491,A,5614,A,2995,A
+A:FR:V:N:A:A:I:O:A:A:A:A,FR,France,Value,N,All,Inside the country,At ATMs,All users,,L,,L,18300,A,25600,A,55000,A,20500,A,22893.674,A,41382,A,29238,A
+A:FR:V:N:D:I:I:O:A:A:A:A,FR,France,Value,N,Inside the country,Inside the country,At ATMs,All users,,L,,L,18300,A,25600,A,51000,A,20500,A,22888.256,A,34129,A,29238,A
+A:FR:V:R:A:Z:Z:A:A:A:A:A,FR,France,Value,R,Not applicable,Not applicable,At ATMs,All users,,L,,L,858.822,A,356.407044,A,693.419,A,734.98,A,717.28,A,1991,A,1668,A
+A:GB:N:A:A:Z:Z:A:A:Z:A:A,GB,United Kingdom,Number,A,Not applicable,Not applicable,At ATMs,All users,18556.8,A,19672,A,21269.7,A,23080.1,A,25152.2,A,27139,A,29777.84,A,32349,A,30914,A
+A:GB:N:B:A:Z:Z:A:A:Z:A:A,GB,United Kingdom,Number,B,Not applicable,Not applicable,At ATMs,All users,3693.1,A,3871.1,A,3939.7,A,4051.8,A,4233.3,A,4259,A,4673,A,5091,A,5500,A
+A:GB:N:C:A:Z:Z:A:A:Z:A:A,GB,United Kingdom,Number,C,Not applicable,Not applicable,At ATMs,All users,3416.7,A,3524.9,A,3672,A,3908.3,A,4071.9,A,4227,A,4356,A,4482,A,4507,A
+A:GB:N:D:A:Z:Z:A:A:Z:A:A,GB,United Kingdom,Number,D,Not applicable,Not applicable,At ATMs,All users,848,A,718,A,644,A,558,A,477,A,401,A,342,A,272,A,185,A
+A:GB:N:F:A:A:I:A:A:D:A:A,GB,United Kingdom,Number,F,All,Inside the country,All,All users,8211,A,8993,A,10232,A,11489,A,13143,A,14666,A,16648,A,18560,A,17526,A
+A:GB:N:F:C:O:I:A:A:A:A:A,GB,United Kingdom,Number,F,Outside the country,Inside the country,All,All users,639,A,891,A,1452,A,1879,A,2057,A,1929,A,2077,A,2088,A,1926,A
+A:GB:N:F:D:I:I:A:A:A:A:A,GB,United Kingdom,Number,F,Inside the country,Inside the country,All,All users,9959,A,10668,A,11561,A,12683,A,14313,A,16322,A,18330,A,20416,A,18796,A
+A:GB:N:F:Z:I:A:A:A:A:A:A,GB,United Kingdom,Number,F,Inside the country,All,All,All users,10292,A,10864,A,12082,A,13434,A,14871,A,16883,A,18557,A,20965,A,17671,A
+A:GB:N:L:A:A:I:O:A:A:A:A,GB,United Kingdom,Number,L,All,Inside the country,All,All users,2532,A,2437,A,2331,A,2084,A,1911,A,1702,A,1495,A,1345,A,814,A
+A:GB:N:M:A:A:I:O:A:A:A:A,GB,United Kingdom,Number,M,All,Inside the country,All,All users,2532,A,2437,A,2331,A,2084,A,1911,A,1702,A,1495,A,1345,A,814,A
+A:GB:V:A:A:Z:Z:A:A:Z:A:A,GB,United Kingdom,Value,A,Not applicable,Not applicable,All,All users,77507206.79,A,75953102.25,A,73980713.02,A,74476757.1,A,83130800,A,91941676,A,91756697,A,92059055,A,100367931,A
+A:GB:V:B:A:Z:Z:A:A:Z:A:A,GB,United Kingdom,Value,B,Not applicable,Not applicable,All,All users,75060202.79,A,73549647.25,A,71517505.02,A,71946146.1,A,80535628,A,89389477,A,89185941,A,89475708,A,98153320,A
+A:GB:V:C:A:Z:Z:A:A:Z:A:A,GB,United Kingdom,Value,C,Not applicable,Not applicable,All,All users,1075510,A,1115070,A,1167270,A,1245400,A,1262240,A,1305000,A,1327000,A,1327000,A,1178000,A
+A:GB:V:D:A:Z:Z:A:A:Z:A:A,GB,United Kingdom,Value,D,Not applicable,Not applicable,All,All users,855390,A,733380,A,693560,A,624000,A,624000,A,492000,A,443000,A,425000,A,231000,A
+A:GB:V:F:A:A:I:A:A:D:A:A,GB,United Kingdom,Value,F,All,Inside the country,All,All users,362585,A,395916,A,435886,A,486008,A,529911,A,561938,A,598459,A,623108,A,638532,A
+A:GB:V:F:C:O:I:A:A:A:A:A,GB,United Kingdom,Value,F,Outside the country,Inside the country,All,All users,28214,A,34639,A,50443,A,64399,A,68272,A,64380,A,68757,A,66745,A,49956,A
+A:GB:V:F:D:I:I:A:A:A:A:A,GB,United Kingdom,Value,F,Inside the country,Inside the country,All,All users,487890,A,520366,A,551935,A,596812,A,640660,A,690819,A,731999,A,764602,A,755655,A
+A:GB:V:F:Z:I:A:A:A:A:A:A,GB,United Kingdom,Value,F,Inside the country,All,All,All users,507577,A,534020,A,574852,A,627137,A,650263,A,708029,A,737803,A,783311,A,698781,A
+A:GB:V:L:A:A:I:O:A:A:A:A,GB,United Kingdom,Value,L,All,Inside the country,All,All users,193606,A,191827,A,189358,A,194313,A,194080,A,187465,A,173423,A,161641,A,112148,A
+A:GB:V:M:A:A:I:O:A:A:A:A,GB,United Kingdom,Value,M,All,Inside the country,All,All users,193606,A,191827,A,189358,A,194313,A,194080,A,187465,A,173423,A,161641,A,112148,A
+A:HK:N:F:A:A:I:A:A:D:A:A,HK,Hong Kong SAR,Number,F,All,Inside the country,All,All users,112.229,A,114.098,A,118.339,A,126.081,A,133.263,A,136.299,A,141.835,A,161.501,A,148.322,A
+A:HK:V:F:A:A:I:A:A:D:A:A,HK,Hong Kong SAR,Value,F,All,Inside the country,All,All users,221447,A,233729,A,247824,A,273163,A,284284,A,303140,A,333135,A,339698,A,305824,A
+A:ID:N:A:A:Z:Z:A:A:A:A:N,ID,Indonesia,Number,A,Not applicable,Not applicable,All,All users,1.485,A,5.311,A,7.335,A,163.086,A,153.911,A,106.722,A,802.349,A,2909.966,A,2904.149,A
+A:ID:N:B:A:Z:Z:A:A:Z:A:A,ID,Indonesia,Number,B,Not applicable,Not applicable,All,All users,754.738,A,2905.468,A,3988.012,A,4833.688,A,5977.816,A,7195.864,A,7192.887,A,5694.252,A,7126.039,A
+A:ID:N:C:A:Z:Z:A:A:Z:A:A,ID,Indonesia,Number,C,Not applicable,Not applicable,All,All users,,L,,L,,L,,L,,L,0,A,0.001,A,0.001,A,0.001,A
+A:ID:N:D:A:Z:Z:A:A:Z:A:A,ID,Indonesia,Number,D,Not applicable,Not applicable,All,All users,3.614,A,3.558,A,3.404,A,3.231,A,2.942,A,2.567,A,2.559,A,2.353,A,1.798,A
+A:ID:N:E:A:Z:Z:A:A:Z:A:A,ID,Indonesia,Number,E,Not applicable,Not applicable,All,All users,38.514,A,38.427,A,36.621,A,33.574,A,30.271,A,22.635,A,17.892,A,15.891,A,11.838,A
+A:ID:N:F:A:A:I:A:A:D:A:A,ID,Indonesia,Number,F,All,Inside the country,All,All users,184.755,A,242.845,A,292.055,A,348.746,A,424.289,A,501.215,A,577.33,A,676.035,A,647.291,A
+A:ID:N:F:C:O:I:A:A:A:A:A,ID,Indonesia,Number,F,Outside the country,Inside the country,All,All users,,L,16.925,A,19.799,A,25.008,A,38.287,A,46.639,A,40.943,A,51.833,A,49.311,A
+A:ID:N:F:D:I:I:A:A:A:A:A,ID,Indonesia,Number,F,Inside the country,Inside the country,All,All users,,L,599.517,A,726.169,A,1134.037,A,1366.797,A,1717.188,A,3789.232,A,6191.151,A,5491.893,A
+A:ID:N:F:Z:I:A:A:A:A:A:A,ID,Indonesia,Number,F,Inside the country,All,All,All users,,L,632.183,A,777.193,A,1180.009,A,1430.083,A,1793.024,A,3822.823,A,6230.023,A,5506.413,A
+A:ID:N:F:Z:I:O:A:A:A:A:A,ID,Indonesia,Number,F,Inside the country,Outside the country,All,All users,,L,15.741,A,31.225,A,20.964,A,24.999,A,29.197,A,35.94,A,38.872,A,14.52,A
+A:ID:N:L:A:A:I:O:A:A:A:A,ID,Indonesia,Number,L,All,Inside the country,All,All users,1955.737,A,2324.694,A,2684.12,A,2959.179,A,3325.448,A,3663.541,A,4297.622,A,5851.911,A,14180.488,A
+A:ID:N:M:A:A:I:O:A:A:A:A,ID,Indonesia,Number,M,All,Inside the country,All,All users,1955.737,A,2306.93,A,2650.735,A,2909.359,A,3260.597,A,3470.791,A,3864.572,A,4320.677,A,4007.32,A
+A:ID:N:M:D:I:I:O:A:A:A:A,ID,Indonesia,Number,M,Inside the country,Inside the country,All,All users,1955.737,A,2304.905,A,2648.503,A,2906.913,A,3257.971,A,3467.6,A,3861.111,A,4316.748,A,4005.414,A
+A:ID:N:M:D:I:I:O:B:A:A:A,ID,Indonesia,Number,M,Inside the country,Inside the country,At ATMs,All users,1955.737,A,2304.905,A,2648.503,A,2906.913,A,3257.971,A,3467.6,A,3861.111,A,4316.748,A,4005.414,A
+A:ID:N:M:Z:O:I:O:A:A:A:A,ID,Indonesia,Number,M,Outside the country,Inside the country,All,All users,,L,2.025,A,2.232,A,2.446,A,2.626,A,3.191,A,3.46,A,3.929,A,1.906,A
+A:ID:N:O:A:A:I:O:A:A:A:A,ID,Indonesia,Number,O,All,Inside the country,All,All users,,L,17.763,A,33.385,A,49.819,A,64.851,A,192.749,A,433.05,A,1531.233,A,10173.168,A
+A:ID:V:A:A:Z:Z:A:A:A:A:N,ID,Indonesia,Value,A,Not applicable,Not applicable,All,All users,267715.636,A,526046.581,A,690759.426,A,1556278.68,A,2217979.07,A,4299397.08,A,24128192.4,A,112836744,A,176030061,A
+A:ID:V:B:A:Z:Z:A:A:Z:A:A,ID,Indonesia,Value,B,Not applicable,Not applicable,All,All users,2175526304,A,15446479007,A,15291610069,A,16628163421,A,20127700704,A,22882873260,A,29131036506,A,34535124029,A,34873643133,A
+A:ID:V:C:A:Z:Z:A:A:Z:A:A,ID,Indonesia,Value,C,Not applicable,Not applicable,All,All users,,L,,L,,L,,L,,L,222.255,A,144391.067,A,245668.47,A,306243.344,A
+A:ID:V:D:A:Z:Z:A:A:Z:A:A,ID,Indonesia,Value,D,Not applicable,Not applicable,All,All users,198328870,A,214347670,A,214942819,A,207581368,A,203434708,A,151430017,A,145005235,A,134303824,A,108971906,A
+A:ID:V:E:A:Z:Z:A:A:Z:A:A,ID,Indonesia,Value,E,Not applicable,Not applicable,All,All users,1320957098,A,1419502182,A,1422568088,A,1330256694,A,1239972117,A,885434684,A,704177435,A,626232839,A,465349403,A
+A:ID:V:F:A:A:I:A:A:D:A:A,ID,Indonesia,Value,F,All,Inside the country,All,All users,110667531,A,147112907,A,180640902,A,210386400,A,251846504,A,286214063,A,293279148,A,332905552,A,284783507,A
+A:ID:V:F:C:O:I:A:A:A:A:A,ID,Indonesia,Value,F,Outside the country,Inside the country,All,All users,,L,26095506.3,A,31309191.4,A,31370422,A,33609458.3,A,40256661.3,A,43698905.2,A,53259224.3,A,28115347.3,A
+A:ID:V:F:D:I:I:A:A:A:A:A,ID,Indonesia,Value,F,Inside the country,Inside the country,All,All users,1983047.53,A,342951817,A,402828782,A,457440963,A,498250786,A,547245747,A,601980179,A,757456546,A,693130444,A
+A:ID:V:F:Z:I:A:A:A:A:A:A,ID,Indonesia,Value,F,Inside the country,All,All,All users,,L,397271248,A,508067177,A,585054213,A,652186158,A,725052735,A,689934587,A,824540349,A,709686622,A
+A:ID:V:F:Z:I:O:A:A:A:A:A,ID,Indonesia,Value,F,Inside the country,Outside the country,All,All users,,L,28223924.5,A,73929203.7,A,96242828.6,A,120325913,A,137550327,A,83841238.3,A,67083802.8,A,16556178.2,A
+A:ID:V:L:A:A:I:O:A:A:A:A,ID,Indonesia,Value,L,All,Inside the country,All,All users,1422930159,A,1687300264,A,1936322839,A,2123196897,A,2379199708,A,2570775431,A,3039154297,A,3532453908,A,3286319742,A
+A:ID:V:M:A:A:I:O:A:A:A:A,ID,Indonesia,Value,M,All,Inside the country,All,All users,1422930159,A,1684058519,A,1932106459,A,2115516540,A,2369957878,A,2548849320,A,2858006653,A,3226594837,A,3004609011,A
+A:ID:V:M:D:I:I:O:A:A:A:A,ID,Indonesia,Value,M,Inside the country,Inside the country,All,All users,1422930159,A,1678552970,A,1925660633,A,2108187407,A,2361513713,A,2537727765,A,2846636429,A,3214497095,A,2998322657,A
+A:ID:V:M:D:I:I:O:B:A:A:A,ID,Indonesia,Value,M,Inside the country,Inside the country,At ATMs,All users,1422930159,A,1678552970,A,1925660633,A,2108187407,A,2361513713,A,2537727765,A,2846636429,A,3214497095,A,2998322657,A
+A:ID:V:M:Z:O:I:O:A:A:A:A,ID,Indonesia,Value,M,Outside the country,Inside the country,All,All users,,L,5505549.13,A,6445826.24,A,7329133.32,A,8444164.66,A,11121555.3,A,11370224.1,A,12097741.9,A,6286353.49,A
+A:ID:V:O:A:A:I:O:A:A:A:A,ID,Indonesia,Value,O,All,Inside the country,All,All users,,L,3241745.47,A,4216379.86,A,7680357.09,A,9241830.56,A,21926111.3,A,181147643,A,305859071,A,281710731,A
+A:IN:N:A:A:Z:Z:A:A:A:A:N,IN,India,Number,A,Not applicable,Not applicable,All,All users,,L,110.055,A,276.327,A,670.062,A,1703.686,A,1179.36,A,992.626,A,1747.78,A,1663.126,A
+A:IN:N:B:A:Z:Z:A:A:A:F:A,IN,India,Number,B,Not applicable,Not applicable,All,All users,1.232,A,15.364,A,78.375,A,220.813,A,524.631,A,1924.998,A,7106.313,A,13170.508,A,21854.739,A
+A:IN:N:B:A:Z:Z:R:P:Z:A:A,IN,India,Number,B,Not applicable,Not applicable,At POS,All users,396.717,A,509.077,A,615.123,A,785.673,A,1087.132,A,1405.16,A,1762.59,A,2086.719,A,1793.46,A
+A:IN:N:C:A:Z:Z:A:A:Z:A:A,IN,India,Number,C,Not applicable,Not applicable,All,All users,176.532,A,192.917,A,230.078,A,288.615,A,364.905,A,378.811,A,534.373,A,826.472,A,1008.377,A
+A:IN:N:D:A:Z:Z:A:A:Z:A:A,IN,India,Number,D,Not applicable,Not applicable,All,All users,1313.456,A,1257.312,A,1196.508,A,1096.37,A,1206.691,A,1171.315,A,1123.761,A,1070.048,A,708.384,A
+A:IN:N:F:A:A:I:A:A:D:A:A,IN,India,Number,F,All,Inside the country,All,All users,466.863,A,619.08,A,808.093,A,1173.614,A,2399.303,A,3343.393,A,4414.281,A,4953.178,A,4159.219,A
+A:IN:N:F:D:I:I:A:A:A:A:A,IN,India,Number,F,Inside the country,Inside the country,All,All users,946.517,A,1276.369,A,1757.152,A,2732.767,A,5492.041,A,8252.209,A,10832.847,A,12274.585,A,10942.339,A
+A:IN:N:F:Z:I:A:A:A:A:A:A,IN,India,Number,F,Inside the country,All,All,All users,946.517,A,1276.369,A,1757.152,A,2732.767,A,5492.041,A,8252.209,A,10832.847,A,12274.585,A,10942.339,A
+A:IN:N:F:Z:I:O:A:A:A:A:A,IN,India,Number,F,Inside the country,Outside the country,All,All users,,L,0.019,A,0.029,A,0.074,A,3.044,A,5.679,A,7.486,A,21.383,A,11.144,A
+A:IN:N:L:A:A:I:O:A:A:A:A,IN,India,Number,L,All,Inside the country,All,All users,5310.9,A,6092.416,A,7002.552,A,8081.269,A,8571.835,A,8612.893,A,9872.901,A,9587.744,A,6178.415,A
+A:IN:N:M:A:A:I:O:A:A:A:A,IN,India,Number,M,All,Inside the country,All,All users,5310.9,A,6092.416,A,7002.552,A,8081.269,A,8571.835,A,8612.893,A,9872.901,A,9587.744,A,6178.415,A
+A:IN:N:M:A:A:I:O:B:A:A:A,IN,India,Number,M,All,Inside the country,At ATMs,All users,5310.9,A,6092.417,A,7000.77,A,8079.39,A,8569.43,A,8610.067,A,9869.386,A,9578.333,A,6176.752,A
+A:IN:N:M:D:I:I:O:A:A:A:A,IN,India,Number,M,Inside the country,Inside the country,All,All users,5310.9,A,6090.975,A,7000.771,A,8079.386,A,8569.43,A,8610.067,A,9869.386,A,9583.926,A,6228.778,A
+A:IN:N:M:D:I:I:O:B:A:A:A,IN,India,Number,M,Inside the country,Inside the country,At ATMs,All users,5310.9,A,6090.975,A,7000.771,A,8079.386,A,8569.43,A,8610.067,A,9869.386,A,9583.926,A,6176.752,A
+A:IN:N:M:D:I:I:O:P:A:A:A,IN,India,Number,M,Inside the country,Inside the country,At POS,All users,,L,,L,,L,,L,,L,,L,,L,,L,52.026,A
+A:IN:N:M:Z:I:A:O:A:A:A:A,IN,India,Number,M,Inside the country,All,At ATMs,All users,5310.9,A,6093.442,A,7003.22,A,8081.698,A,8571.857,A,8612.721,A,9871.837,A,9586.394,A,6178.318,A
+A:IN:N:M:Z:I:O:O:A:A:A:A,IN,India,Number,M,Inside the country,Outside the country,At ATMs,All users,,L,2.467,A,2.449,A,2.312,A,2.427,A,2.654,A,2.451,A,2.468,A,1.566,A
+A:IN:N:M:Z:O:I:O:A:A:A:A,IN,India,Number,M,Outside the country,Inside the country,At ATMs,All users,,L,1.441,A,1.781,A,1.883,A,2.405,A,2.826,A,3.515,A,3.818,A,1.663,A
+A:IN:V:A:A:Z:Z:A:A:A:A:N,IN,India,Value,A,Not applicable,Not applicable,At ATMs,All users,,M,35410.151,A,166374.041,A,372406.841,A,677633.56,A,487317.072,A,416945.703,A,441547.651,A,378575.1826,A
+A:IN:V:B:A:Z:Z:A:A:A:F:A,IN,India,Value,B,Not applicable,Not applicable,At ATMs,All users,4332.392,A,95811.802,A,581873.612,A,1622256.022,A,4180058.608,A,10022981.73,A,24672270,A,40186184.22,A,60715825.68,A
+A:IN:V:B:A:Z:Z:R:P:Z:A:A,IN,India,Value,B,Not applicable,Not applicable,At POS,All users,1229837.707,A,1539852.682,A,1899156.489,A,2406615.144,A,3283817.596,A,4589645.98,A,6033478.678,A,7127114.635,A,6125472.131,A
+A:IN:V:C:A:Z:Z:A:A:Z:A:A,IN,India,Value,C,Not applicable,Not applicable,At ATMs,All users,1083102.78,A,1268657.383,A,1804662.254,A,2495978.795,A,3692366.233,A,3908691.209,A,5628625.164,A,7840872.102,A,8544311.943,A
+A:IN:V:D:A:Z:Z:A:A:Z:A:A,IN,India,Value,D,Not applicable,Not applicable,All,All users,100168144.4,A,93316039.12,A,85434136.76,A,81860791.15,A,80958147.56,A,81934928.08,A,82460649.44,A,79978673.87,A,56915374.31,A
+A:IN:V:F:A:A:I:A:A:D:A:A,IN,India,Value,F,All,Inside the country,All,All users,742968.703,A,954507.475,A,1213492.791,A,1589267.506,A,3299067.497,A,4600699.966,A,5934746.631,A,6833669.12,A,6412557.563,A
+A:IN:V:F:D:I:I:A:A:A:A:A,IN,India,Value,F,Inside the country,Inside the country,All,All users,2052028.451,A,2697899.761,A,3482257.656,A,4679521.491,A,7702721.904,A,10921295.63,A,14463234.97,A,16577379.58,A,14585209.46,A
+A:IN:V:F:D:I:I:A:A:H:A:A,IN,India,Value,F,Inside the country,Inside the country,At POS,All users,79222.041,A,81045.462,A,213421.833,A,487583.222,A,838010.774,A,1416342.098,A,2128764.952,A,2207738.255,A,1895540.302,A
+A:IN:V:F:Z:I:A:A:A:A:A:A,IN,India,Value,F,Inside the country,All,At POS,All users,2052028.451,A,2697899.761,A,3482257.656,A,4679521.491,A,7702721.904,A,10921295.63,A,14463234.97,A,16577379.58,A,14585209.46,A
+A:IN:V:F:Z:I:O:A:A:A:A:A,IN,India,Value,F,Inside the country,Outside the country,At POS,All users,,L,389.947,A,450.181,A,700.055,A,8027.137,A,13303.854,A,18691.792,A,19482.629,A,14734.88,A
+A:IN:V:L:A:A:I:O:A:A:A:A,IN,India,Value,L,All,Inside the country,At POS,All users,,L,19685563.92,A,22331022.24,A,25431434.79,A,23667836.28,A,29071781.02,A,33207020.19,A,34195184.56,A,29080796.53,A
+A:IN:V:M:A:A:I:O:A:A:A:A,IN,India,Value,M,All,Inside the country,At POS,All users,,L,19685563.92,A,22331022.24,A,25431434.79,A,23667836.28,A,29071781.02,A,33207020.19,A,34195184.56,A,29080796.53,A
+A:IN:V:M:A:A:I:O:B:A:A:A,IN,India,Value,M,All,Inside the country,At ATMs,All users,,L,19685563.91,A,22302630,A,25401770,A,23631120,A,29024290.7,A,33153220,A,34116903.46,A,29052347.02,A
+A:IN:V:M:D:I:I:O:A:A:A:A,IN,India,Value,M,Inside the country,Inside the country,At POS,All users,16697846.35,A,19665220.36,A,22302625.18,A,25401770.25,A,23631116.88,A,29024291.59,A,33153221.41,A,34135633.84,A,29068764.13,A
+A:IN:V:M:D:I:I:O:B:A:A:A,IN,India,Value,M,Inside the country,Inside the country,At ATMs,All users,16697846.35,A,19665220.36,A,22302625.18,A,25401770.25,A,23631116.88,A,29024291.59,A,33153221.41,A,34135633.84,A,29052347.02,A
+A:IN:V:M:Z:I:A:O:A:A:A:A,IN,India,Value,M,Inside the country,All,At POS,All users,,L,19685782.13,A,22323481.45,A,25422079.5,A,23646943.51,A,29044595.73,A,33172916.2,A,34154621.43,A,29063558.18,A
+A:IN:V:M:Z:I:O:O:A:A:A:A,IN,India,Value,M,Inside the country,Outside the country,At POS,All users,,L,20561.769,A,20856.265,A,20309.248,A,15826.625,A,20304.139,A,19694.787,A,18987.591,A,11211.164,A
+A:IN:V:M:Z:O:I:O:A:A:A:A,IN,India,Value,M,Outside the country,Inside the country,At POS,All users,,L,20343.559,A,28397.061,A,29664.544,A,36719.397,A,47489.433,A,53798.777,A,59550.714,A,28449.514,A
+A:IT:N:A:A:Z:Z:A:A:A:A:N,IT,Italy,Number,A,Not applicable,Not applicable,At POS,All users,,L,,L,,L,,L,,L,1619.51,A,1885.68,A,2138.45,A,2342.49,A
+A:IT:N:B:A:Z:Z:A:A:Z:A:A,IT,Italy,Number,B,Not applicable,Not applicable,All,All users,1261.27,A,1261.07,A,1263.222,A,1360.058,A,1362.55,A,1390.67,A,1450.77,A,1505.11,A,1584.8,A
+A:IT:N:C:A:Z:Z:A:A:Z:A:A,IT,Italy,Number,C,Not applicable,Not applicable,All,All users,602.27,A,624.34,A,608.093,A,682.25,A,790.7,A,822.83,A,919.62,A,979.19,A,1033.48,A
+A:IT:N:D:A:Z:Z:A:A:Z:A:A,IT,Italy,Number,D,Not applicable,Not applicable,All,All users,275.69,A,252.41,A,231.511,A,208.63,A,186.2,A,167.65,A,152.19,A,134.13,A,96.73,A
+A:IT:N:E:A:Z:Z:A:A:Z:A:A,IT,Italy,Number,E,Not applicable,Not applicable,All,All users,303.58,A,292.11,A,280.525,A,282.52,A,284.6,A,272.77,A,261.76,A,253.5,A,207.1,A
+A:IT:N:F:A:A:I:A:A:D:A:A,IT,Italy,Number,F,All,Inside the country,All,All users,1091.52,A,1225.77,A,1390.057,A,1617.148,A,1836.5,A,1941.44,A,2207.58,A,2545.29,A,2769.26,A
+A:IT:N:F:C:O:I:A:A:A:A:A,IT,Italy,Number,F,Outside the country,Inside the country,All,All users,,L,,L,68.9,A,79.6,A,104.6,A,214.75,A,383.23,A,503.77,A,583.2,A
+A:IT:N:F:D:I:I:A:A:A:A:A,IT,Italy,Number,F,Inside the country,Inside the country,All,All users,,L,,L,2256.4,A,2564.1,A,2969.5,A,3166.41,A,3616.02,A,4227.37,A,4501.26,A
+A:IT:N:F:Z:I:A:A:A:A:A:A,IT,Italy,Number,F,Inside the country,All,All,All users,,L,2387,A,2660.5,A,2926.6,A,3285.7,A,3579.52,A,4091,A,4823.45,A,4664.95,A
+A:IT:N:F:Z:I:O:A:A:A:A:A,IT,Italy,Number,F,Inside the country,Outside the country,All,All users,,L,,L,439.512,A,370.602,A,315.629,A,413.11,A,474.85,A,596.11,A,163.69,A
+A:IT:N:L:A:A:I:O:A:A:A:A,IT,Italy,Number,L,All,Inside the country,All,All users,,L,838.5,A,1064.6,A,1145.8,A,1170.1,A,1205.71,A,1232.82,A,1251.54,A,1042.96,A
+A:IT:N:M:A:A:I:O:A:A:A:A,IT,Italy,Number,M,All,Inside the country,All,All users,,L,801.8,A,956.48,A,1013.5,A,1009.5,A,1027.35,A,1028.68,A,1015.34,A,809.35,A
+A:IT:N:M:A:A:I:O:B:A:A:A,IT,Italy,Number,M,All,Inside the country,At ATMs,All users,,L,801.8,A,956.48,A,1013.5,A,1009.5,A,1027.35,A,1028.68,A,1015.34,A,809.35,A
+A:IT:N:M:D:I:I:O:A:A:A:A,IT,Italy,Number,M,Inside the country,Inside the country,All,All users,743.99,A,794.17,A,952.68,A,1011,A,1007,A,1024.77,A,1025.8,A,1010.91,A,806.98,A
+A:IT:N:M:D:I:I:O:B:A:A:A,IT,Italy,Number,M,Inside the country,Inside the country,At ATMs,All users,744,A,794.17,A,952.68,A,1011,A,1007,A,1024.77,A,1025.8,A,1010.91,A,806.98,A
+A:IT:N:M:Z:O:I:O:A:A:A:A,IT,Italy,Number,M,Outside the country,Inside the country,All,All users,,L,7.6,A,0.7,A,2.5,A,2.5,A,2.57,A,2.88,A,4.43,A,2.37,A
+A:IT:N:O:A:A:I:O:A:A:A:A,IT,Italy,Number,O,All,Inside the country,All,All users,,L,36.7,A,110.9,A,132.3,A,160.6,A,178.36,A,204.14,A,236.2,A,233.61,A
+A:IT:N:R:A:Z:Z:A:A:A:A:A,IT,Italy,Number,R,Not applicable,Not applicable,All,All users,,L,,L,2.7,A,3.7,A,3.6,A,3.73,A,18.83,A,23.98,A,25.33,A
+A:IT:V:A:A:Z:Z:A:A:A:A:N,IT,Italy,Value,A,Not applicable,Not applicable,All,All users,,L,,L,,L,,L,,L,390202.87,A,409809.09,A,445427.41,A,450061.53,A
+A:IT:V:B:A:Z:Z:A:A:Z:A:A,IT,Italy,Value,B,Not applicable,Not applicable,All,All users,7853084.08,A,8033853,A,7278773.2,A,6925725.38,A,6993999.94,A,7422375.18,A,7788663.62,A,7311072.24,A,6549637.25,A
+A:IT:V:C:A:Z:Z:A:A:Z:A:A,IT,Italy,Value,C,Not applicable,Not applicable,All,All users,385424.55,A,356656,A,316880.025,A,358749,A,365200,A,401698.57,A,448351.67,A,462381.68,A,428366.96,A
+A:IT:V:D:A:Z:Z:A:A:Z:A:A,IT,Italy,Value,D,Not applicable,Not applicable,All,All users,679748.67,A,582116,A,533307.707,A,493260.95,A,479400,A,439942.3,A,409779.55,A,375237.31,A,278898.85,A
+A:IT:V:E:A:Z:Z:A:A:Z:A:A,IT,Italy,Value,E,Not applicable,Not applicable,All,All users,709521.21,A,649999,A,617525.294,A,618880,A,605200,A,592031.8,A,582024.4,A,576601.96,A,477253.19,A
+A:IT:V:F:A:A:I:A:A:D:A:A,IT,Italy,Value,F,All,Inside the country,All,All users,73697.27,A,78786,A,88365.316,A,103196.22,A,111829.36,A,113928.26,A,123592.66,A,135522.85,A,148123.45,A
+A:IT:V:F:C:O:I:A:A:A:A:A,IT,Italy,Value,F,Outside the country,Inside the country,All,All users,,L,,L,5400,A,6300,A,6700,A,10310.28,A,18471.43,A,23484.17,A,22816.68,A
+A:IT:V:F:D:I:I:A:A:A:A:A,IT,Italy,Value,F,Inside the country,Inside the country,All,All users,,L,,L,150400,A,168100,A,188100,A,194327.15,A,215194.74,A,236634.45,A,243445.55,A
+A:IT:V:F:D:I:I:A:A:H:A:A,IT,Italy,Value,F,Inside the country,Inside the country,At POS,All users,,L,,L,,L,,L,,L,20422.52,A,22982.08,A,26974.9,A,31967.31,A
+A:IT:V:F:Z:I:A:A:A:A:A:A,IT,Italy,Value,F,Inside the country,All,At POS,All users,,L,179000,A,191600,A,206500,A,219200,A,231926.56,A,259035,A,284476.45,A,256999.28,A
+A:IT:V:F:Z:I:O:A:A:A:A:A,IT,Italy,Value,F,Inside the country,Outside the country,At POS,All users,,L,,L,41132.306,A,37582.9,A,31028.9,A,37599.41,A,43841,A,47842.09,A,13553.7,A
+A:IT:V:L:A:A:I:O:A:A:A:A,IT,Italy,Value,L,All,Inside the country,At POS,All users,,L,158400,A,200700,A,221400,A,227100,A,234333.62,A,241633.69,A,246959.73,A,222616.99,A
+A:IT:V:M:A:A:I:O:A:A:A:A,IT,Italy,Value,M,All,Inside the country,At POS,All users,,L,147200,A,178500,A,194400,A,194000,A,198367.43,A,201588.53,A,202870.93,A,179400.23,A
+A:IT:V:M:A:A:I:O:B:A:A:A,IT,Italy,Value,M,All,Inside the country,At ATMs,All users,,L,147200,A,178500,A,194400,A,194000,A,198367.43,A,201588.53,A,202870.93,A,179400.23,A
+A:IT:V:M:D:I:I:O:A:A:A:A,IT,Italy,Value,M,Inside the country,Inside the country,At POS,All users,136391.74,A,146170.42,A,178433,A,194000,A,193600,A,197966.1,A,201144.06,A,202185.59,A,178995.71,A
+A:IT:V:M:D:I:I:O:B:A:A:A,IT,Italy,Value,M,Inside the country,Inside the country,At ATMs,All users,136391.74,A,146170.42,A,178433,A,194000,A,193600,A,197966.1,A,201144.06,A,202185.59,A,178995.71,A
+A:IT:V:M:Z:O:I:O:A:A:A:A,IT,Italy,Value,M,Outside the country,Inside the country,At POS,All users,,L,1000,A,100,A,400,A,400,A,401.33,A,444.5,A,685.34,A,404.52,A
+A:IT:V:O:A:A:I:O:A:A:A:A,IT,Italy,Value,O,All,Inside the country,At POS,All users,,L,11200,A,22200,A,27000,A,33100,A,35966.18,A,40045.15,A,44088.8,A,43216.75,A
+A:IT:V:R:A:Z:Z:A:A:A:A:A,IT,Italy,Value,R,Not applicable,Not applicable,At POS,All users,,L,,L,1000,A,1500,A,500,A,1301.27,A,5739.65,A,7104.72,A,8062.19,A
+A:JP:N:A:A:Z:Z:A:A:A:F:A,JP,Japan,Number,A,Not applicable,Not applicable,At POS,All users,,M,,M,,M,,M,,M,,M,,L,1649.075,A,1726.033,A
+A:JP:N:B:A:Z:Z:A:A:A:F:A,JP,Japan,Number,B,Not applicable,Not applicable,At POS,All users,,M,,M,,M,,M,,M,,M,,L,1649.075,A,1726.033,A
+A:JP:N:B:D:Z:Z:A:A:Z:A:A,JP,Japan,Number,B,Not applicable,Not applicable,All,All users,1494.224,A,1513.537,A,1548.723,A,1582.353,A,1609.986,A,1626.783,A,1647.128,A,1691.147,A,1764.85,A
+A:JP:N:D:A:Z:Z:A:A:Z:A:A,JP,Japan,Number,D,Not applicable,Not applicable,All,All users,77.453,A,73.051,A,68.864,A,64.1,A,59.421,A,55.485,A,51.365,A,47.63,A,40.911,A
+A:JP:N:F:A:A:I:A:A:D:A:A,JP,Japan,Number,F,All,Inside the country,All,All users,32.322,A,40.374,A,56.184,A,78.209,A,114.261,A,178.414,A,259.872,A,377.877,A,524.637,A
+A:JP:N:F:D:I:I:A:A:H:A:A,JP,Japan,Number,F,Inside the country,Inside the country,All,All users,2720.27,A,3293.864,A,4039.551,A,4678.445,A,5191.6,A,5422.684,A,5904.571,A,7049.486,A,8641.109,A
+A:JP:N:M:D:I:I:O:B:A:A:A,JP,Japan,Number,M,Inside the country,Inside the country,At ATMs,All users,285.227,A,275.964,A,265.05,A,251.398,A,250.851,A,243.944,A,229.355,A,211.706,A,178.584,A
+A:JP:V:A:A:Z:Z:A:A:A:F:A,JP,Japan,Value,A,Not applicable,Not applicable,All,All users,,M,,M,,M,,M,,M,,M,,L,880410900,A,884430700,A
+A:JP:V:B:A:Z:Z:A:A:A:F:A,JP,Japan,Value,B,Not applicable,Not applicable,All,All users,,M,,M,,M,,M,,M,,M,,L,880410900,A,884430700,A
+A:JP:V:D:A:Z:Z:A:A:Z:A:A,JP,Japan,Value,D,Not applicable,Not applicable,All,All users,369203300,A,366444900,A,332655300,A,299032200,A,424224400,A,374158000,A,261275500,A,183980800,A,134253400,A
+A:JP:V:F:A:A:I:A:A:D:A:A,JP,Japan,Value,F,All,Inside the country,At POS,All users,638679.606,A,640416.65,A,700351,A,774705,A,917998,A,1132688,A,1413091,A,1828703,A,2266454,A
+A:JP:V:F:D:I:I:A:A:H:A:A,JP,Japan,Value,F,Inside the country,Inside the country,At POS,All users,2467085.53,A,3135466,A,4013999,A,4644257,A,5143587,A,5199441,A,5644059,A,6871227,A,10234539,A
+A:JP:V:M:D:I:I:O:B:A:A:A,JP,Japan,Value,M,Inside the country,Inside the country,At ATMs,All users,13242000,A,12863100,A,12532100,A,12148600,A,11974100,A,11803300,A,11439100,A,10977000,A,10054000,A
+A:KR:N:A:A:Z:Z:A:A:A:F:A,KR,Korea,Number,A,Not applicable,Not applicable,All,All users,2561.535,A,2884.56,A,3149.502,A,3476.825,A,3754.873,A,4140.221,A,4797.837,A,5508.795,A,6155.465,A
+A:KR:N:B:A:Z:Z:A:A:A:F:A,KR,Korea,Number,B,Not applicable,Not applicable,All,All users,2561.535,A,2884.56,A,3149.502,A,3476.825,A,3754.873,A,4140.221,A,4797.837,A,5508.795,A,6155.465,A
+A:KR:N:C:A:Z:Z:A:A:Z:A:A,KR,Korea,Number,C,Not applicable,Not applicable,All,All users,1652.961,A,1702.213,A,1700,A,1709.117,A,1771.451,A,1710.5,A,1698.456,A,1731.596,A,2404.619,A
+A:KR:N:D:A:Z:Z:A:A:Z:A:A,KR,Korea,Number,D,Not applicable,Not applicable,All,All users,460.138,A,364.251,A,310.33,A,254.041,A,200.427,A,159.817,A,123.017,A,93.987,A,76.021,A
+A:KR:N:E:A:Z:Z:A:A:Z:A:A,KR,Korea,Number,E,Not applicable,Not applicable,All,All users,0.419,A,0.381,A,0.3,A,0.3,A,0.3,A,0.241,A,0.213,A,0.191,A,0.16,A
+A:KR:N:F:A:A:I:A:A:D:A:A,KR,Korea,Number,F,All,Inside the country,All,All users,2545.295,A,3443.431,A,4401.626,A,5403.28,A,6398.626,A,7352.193,A,8160.377,A,8863.079,A,8538.382,A
+A:KR:N:M:D:I:I:O:B:A:A:A,KR,Korea,Number,M,Inside the country,Inside the country,At ATMs,All users,259.966,A,270.449,A,271.028,A,269.881,A,259.66,A,244.173,A,229.811,A,213.276,A,166.249,A
+A:KR:V:A:A:Z:Z:A:A:A:F:A,KR,Korea,Value,A,Not applicable,Not applicable,All,All users,12090082083,A,12786136687,A,14077597863,A,16321485371,A,16973490221,A,17404408667,A,19166584968,A,20247203818,A,24096586067,A
+A:KR:V:B:A:Z:Z:A:A:A:F:A,KR,Korea,Value,B,Not applicable,Not applicable,All,All users,12090082083,A,12786136687,A,14077597863,A,16321485371,A,16973490221,A,17404408667,A,19166584968,A,20247203818,A,24096586067,A
+A:KR:V:C:A:Z:Z:A:A:Z:A:A,KR,Korea,Value,C,Not applicable,Not applicable,All,All users,176182251,A,180449582,A,177670812,A,179801921,A,187551726,A,189804370,A,192261449,A,196525175.2,A,292828908.1,A
+A:KR:V:D:A:Z:Z:A:A:Z:A:A,KR,Korea,Value,D,Not applicable,Not applicable,All,All users,7251754716,A,6405016075,A,5973198509,A,5653426433,A,5310028202,A,5004980557,A,4744022969,A,4243264866,A,4521509311,A
+A:KR:V:E:A:Z:Z:A:A:Z:A:A,KR,Korea,Value,E,Not applicable,Not applicable,All,All users,40743916,A,37205713,A,32566332,A,28337925,A,26209842,A,26391391.14,A,23823882.34,A,21619397.85,A,18206360.5,A
+A:KR:V:F:A:A:I:A:A:D:A:A,KR,Korea,Value,F,All,Inside the country,All,All users,84816313,A,96151129,A,113916832,A,134429549,A,155446358,A,170591330.1,A,183584966.4,A,195238839.3,A,198655341.9,A
+A:KR:V:M:D:I:I:O:B:A:A:A,KR,Korea,Value,M,Inside the country,Inside the country,At ATMs,All users,56387898,A,59150018,A,60379134,A,62056381,A,61040451,A,59529523,A,58474773,A,56167679,A,49898720,A
+A:MX:N:A:A:Z:Z:A:A:A:F:A,MX,Mexico,Number,A,Not applicable,Not applicable,All,All users,1050.18,A,1121.13,A,1210.33,A,1192.86,A,1232.14,A,1373.57,A,1487.39,A,1742.05,A,2102.68,A
+A:MX:N:B:A:Z:Z:A:A:A:F:A,MX,Mexico,Number,B,Not applicable,Not applicable,All,All users,991.26,A,1057.36,A,1139.5,A,1112.87,A,1139.18,A,1270.95,A,1378.9,A,1620.06,A,1973.29,A
+A:MX:N:C:A:Z:Z:A:A:A:F:A,MX,Mexico,Number,C,Not applicable,Not applicable,All,All users,58.92,A,63.77,A,70.83,A,79.99,A,92.96,A,102.62,A,108.49,A,121.99,A,129.39,A
+A:MX:N:D:A:Z:Z:A:A:Z:A:A,MX,Mexico,Number,D,Not applicable,Not applicable,All,All users,377.52,A,348.28,A,330.51,A,310.51,A,274.89,A,255.63,A,247.93,A,209.02,A,149.86,A
+A:MX:N:F:A:A:I:A:A:D:A:A,MX,Mexico,Number,F,All,Inside the country,All,All users,916.99,A,1067.14,A,1291.05,A,1584.85,A,1690.1,A,1966.87,A,2341.27,A,2843.95,A,3128.76,A
+A:MX:N:F:D:I:I:A:A:A:A:A,MX,Mexico,Number,F,Inside the country,Inside the country,All,All users,1491.83,A,1695.67,A,1953.68,A,2294.57,A,2522.62,A,2916.83,A,3332.94,A,3958.99,A,4171.51,A
+A:MX:N:F:Z:I:A:A:A:A:A:A,MX,Mexico,Number,F,Inside the country,All,All,All users,1474.96,A,1676.35,A,1933.57,A,2259.51,A,2473.98,A,2838.34,A,3064.96,A,3563.11,A,3498.91,A
+A:MX:N:F:Z:I:O:A:A:A:A:A,MX,Mexico,Number,F,Inside the country,Outside the country,All,All users,31.45,A,35.55,A,44.46,A,50.85,A,61.55,A,72.22,A,76.92,A,89.18,A,68.08,A
+A:MX:N:L:A:A:I:O:A:A:A:A,MX,Mexico,Number,L,All,Inside the country,All,All users,1427.34,A,1475.7,A,1594.1,A,1653.94,A,1750.71,A,1768.84,A,1907.43,A,2041.08,A,1762.49,A
+A:MX:N:M:A:A:I:O:A:A:A:A,MX,Mexico,Number,M,All,Inside the country,All,All users,1427.34,A,1475.7,A,1594.1,A,1653.94,A,1750.71,A,1768.84,A,1907.43,A,2041.08,A,1762.49,A
+A:MX:N:M:A:A:I:O:B:A:A:A,MX,Mexico,Number,M,All,Inside the country,At ATMs,All users,1427.34,A,1475.7,A,1594.1,A,1653.94,A,1750.71,A,1768.84,A,1907.43,A,2041.08,A,1762.49,A
+A:MX:N:M:D:I:I:O:A:A:A:A,MX,Mexico,Number,M,Inside the country,Inside the country,All,All users,1422.17,A,1470.69,A,1588.85,A,1649.22,A,1746.56,A,1765.7,A,1899.87,A,2034.84,A,1760.95,A
+A:MX:N:M:D:I:I:O:B:A:A:A,MX,Mexico,Number,M,Inside the country,Inside the country,At ATMs,All users,1422.17,A,1470.69,A,1588.85,A,1649.22,A,1746.56,A,1765.7,A,1899.87,A,2034.84,A,1760.95,A
+A:MX:N:M:Z:I:A:O:A:A:A:A,MX,Mexico,Number,M,Inside the country,All,All,All users,1438.83,A,1488.1,A,1605.78,A,1667.21,A,1765.71,A,1783.95,A,1917.43,A,2052.4,A,1774.14,A
+A:MX:N:M:Z:I:A:O:B:A:A:A,MX,Mexico,Number,M,Inside the country,All,At ATMs,All users,1438.83,A,1488.1,A,1605.78,A,1667.21,A,1765.71,A,1783.95,A,1917.43,A,2052.4,A,1774.14,A
+A:MX:N:M:Z:I:O:O:A:A:A:A,MX,Mexico,Number,M,Inside the country,Outside the country,All,All users,16.66,A,17.41,A,16.94,A,17.99,A,19.15,A,18.25,A,17.57,A,17.56,A,13.19,A
+A:MX:N:M:Z:O:I:O:A:A:A:A,MX,Mexico,Number,M,Outside the country,Inside the country,All,All users,5.17,A,5,A,5.25,A,4.71,A,4.15,A,3.15,A,7.56,A,6.24,A,1.55,A
+A:MX:V:A:A:Z:Z:A:A:A:F:A,MX,Mexico,Value,A,Not applicable,Not applicable,All,All users,247166406.1,A,250884446,A,259828466.5,A,269402201.4,A,281533916.7,A,301277371.2,A,322241108.1,A,323129700.1,A,343408338.2,A
+A:MX:V:B:A:Z:Z:A:A:A:F:A,MX,Mexico,Value,B,Not applicable,Not applicable,All,All users,246884208.1,A,250596266,A,259528104.5,A,269053386.4,A,281118360.7,A,300784957.2,A,321699835.1,A,322553997.1,A,342879896.2,A
+A:MX:V:C:A:Z:Z:A:A:A:F:A,MX,Mexico,Value,C,Not applicable,Not applicable,All,All users,282198,A,288180,A,300362,A,348815,A,415556,A,492414,A,541273,A,575703,A,528442,A
+A:MX:V:D:A:Z:Z:A:A:Z:A:A,MX,Mexico,Value,D,Not applicable,Not applicable,All,All users,10015548.38,A,9305693.05,A,8876908.28,A,8752503.85,A,8397097.18,A,8192921.51,A,8245580.78,A,7110761.33,A,5279987.59,A
+A:MX:V:F:A:A:I:A:A:D:A:A,MX,Mexico,Value,F,All,Inside the country,All,All users,428755.03,A,501584.39,A,605840.31,A,765922.7,A,812368.62,A,966503.05,A,1229026.66,A,1438316.76,A,1616147.14,A
+A:MX:V:F:D:I:I:A:A:A:A:A,MX,Mexico,Value,F,Inside the country,Inside the country,All,All users,923599.8,A,1047406.02,A,1172091.78,A,1412702.81,A,1569721.07,A,1844192.41,A,2217225.95,A,2540727.51,A,2649935.19,A
+A:MX:V:F:D:I:I:A:A:D:A:A,MX,Mexico,Value,F,Inside the country,Inside the country,At POS,All users,428755.03,A,501584.39,A,605840.31,A,765922.7,A,812368.62,A,966503.05,A,1229026.66,A,1438316.76,A,1616147.14,A
+A:MX:V:F:Z:I:A:A:A:A:A:A,MX,Mexico,Value,F,Inside the country,All,At POS,All users,906496,A,1026915,A,1140954,A,1364157,A,1510199,A,1772731,A,1939867,A,2244943,A,2207548,A
+A:MX:V:F:Z:I:O:A:A:A:A:A,MX,Mexico,Value,F,Inside the country,Outside the country,At POS,All users,87029.32,A,76732.46,A,71265.54,A,82695.38,A,105111.85,A,146000.24,A,151544.05,A,221182.91,A,148043.57,A
+A:MX:V:L:A:A:I:O:A:A:A:A,MX,Mexico,Value,L,All,Inside the country,At POS,All users,2247481.27,A,2408184.77,A,2679270.01,A,2909815.47,A,3183053.21,A,3366216.18,A,3715402.34,A,4091779.43,A,4157433.8,A
+A:MX:V:M:A:A:I:O:A:A:A:A,MX,Mexico,Value,M,All,Inside the country,At POS,All users,2247481.27,A,2408184.77,A,2679270.01,A,2909815.47,A,3183053.21,A,3366216.18,A,3715402.34,A,4091779.43,A,4157433.8,A
+A:MX:V:M:A:A:I:O:B:A:A:A,MX,Mexico,Value,M,All,Inside the country,At ATMs,All users,2247481.27,A,2408184.77,A,2679270.01,A,2909815.47,A,3183053.21,A,3366216.18,A,3715402.34,A,4091779.43,A,4157433.8,A
+A:MX:V:M:D:I:I:O:A:A:A:A,MX,Mexico,Value,M,Inside the country,Inside the country,At POS,All users,2232735,A,2394281,A,2664602,A,2890949,A,3164098,A,3354783,A,3704302,A,4071439,A,4150813,A
+A:MX:V:M:D:I:I:O:B:A:A:A,MX,Mexico,Value,M,Inside the country,Inside the country,At ATMs,All users,2232735,A,2394281,A,2664602,A,2890949,A,3164098,A,3354783,A,3704302,A,4071439,A,4150813,A
+A:MX:V:M:Z:I:A:O:A:A:A:A,MX,Mexico,Value,M,Inside the country,All,At POS,All users,2278316.77,A,2440971.62,A,2711850.83,A,2943251.93,A,3231840.48,A,3420921.32,A,3771750.53,A,4143035,A,4210701.11,A
+A:MX:V:M:Z:I:A:O:B:A:A:A,MX,Mexico,Value,M,Inside the country,All,At ATMs,All users,2278316.77,A,2440971.62,A,2711850.83,A,2943251.93,A,3231840.48,A,3420921.32,A,3771750.53,A,4143035,A,4210701.11,A
+A:MX:V:M:Z:I:O:O:A:A:A:A,MX,Mexico,Value,M,Inside the country,Outside the country,At POS,All users,45581.77,A,46690.62,A,47248.83,A,52302.93,A,67742.48,A,66138.32,A,67448.53,A,71596,A,59888.11,A
+A:MX:V:M:Z:O:I:O:A:A:A:A,MX,Mexico,Value,M,Outside the country,Inside the country,At POS,All users,14746.27,A,13903.77,A,14668.01,A,18866.47,A,18955.21,A,11433.18,A,11100.34,A,20340.43,A,6620.8,A
+A:NL:N:A:A:Z:Z:A:A:A:F:A,NL,Netherlands,Number,A,Not applicable,Not applicable,At POS,All users,,L,,L,,L,,L,,L,,L,,L,417.441,A,823.596,A
+A:NL:N:B:A:Z:Z:A:A:A:F:A,NL,Netherlands,Number,B,Not applicable,Not applicable,At POS,All users,,L,,L,,L,,L,,L,,L,,L,417.441,A,823.596,A
+A:NL:N:B:A:Z:Z:A:A:Z:A:A,NL,Netherlands,Number,B,Not applicable,Not applicable,All,All users,1623.699,A,2013.662,A,2043.23,A,1970.168,A,2111.709,A,2303.241,A,2567.911,A,2842.64,A,2918.255,A
+A:NL:N:C:A:Z:Z:A:A:Z:A:A,NL,Netherlands,Number,C,Not applicable,Not applicable,All,All users,1368.647,A,1329.712,A,1163.435,A,1288.985,A,1161.588,A,1210.978,A,1406.193,A,1472.415,A,1517.426,A
+A:NL:N:D:A:Z:Z:A:A:Z:A:A,NL,Netherlands,Number,D,Not applicable,Not applicable,All,All users,,L,0.184,A,0.191,A,0.198,A,0.152,A,0.094,A,0.295,A,0.306,A,0.018,A
+A:NL:N:E:A:Z:Z:A:A:Z:A:A,NL,Netherlands,Number,E,Not applicable,Not applicable,All,All users,,L,0,A,0,A,0.927,A,0.327,A,0.314,A,0.311,A,0.267,A,0.159,A
+A:NL:N:F:A:A:I:A:A:D:A:A,NL,Netherlands,Number,F,All,Inside the country,All,All users,2530.659,A,2765.036,A,3037.49,A,3392.034,A,3743.116,A,4105.331,A,4528.61,A,4879.95,A,4548.845,A
+A:NL:N:F:C:O:I:A:A:A:A:A,NL,Netherlands,Number,F,Outside the country,Inside the country,All,All users,,L,,L,58.504,A,62.623,A,68.345,A,78.751,A,91.247,A,100.987,A,109.724,A
+A:NL:N:F:D:I:I:A:A:A:A:A,NL,Netherlands,Number,F,Inside the country,Inside the country,All,All users,,L,,L,3186.408,A,3472.957,A,3834.001,A,4206.821,A,4641.296,A,5004.223,A,4646.62,A
+A:NL:N:F:Z:I:A:P:A:A:A:A,NL,Netherlands,Number,F,Inside the country,All,All,All users,,L,,L,6.84,A,14.366,A,15.137,A,16.146,A,18.397,A,22.338,A,26.945,A
+A:NL:N:F:Z:I:O:A:A:A:A:A,NL,Netherlands,Number,F,Inside the country,Outside the country,All,All users,,L,,L,10.422,A,26.854,A,39.4,A,61.259,A,126.968,A,141.269,A,130.037,A
+A:NL:N:L:A:A:I:O:A:A:A:A,NL,Netherlands,Number,L,All,Inside the country,All,All users,,L,,L,422.064,A,357.93,A,343.618,A,317.153,A,411.773,A,366.261,A,131.722,A
+A:NL:N:M:A:A:I:O:A:A:A:A,NL,Netherlands,Number,M,All,Inside the country,All,All users,,L,,L,389.191,A,336.747,A,323.16,A,297.308,A,392.046,A,347.442,A,117.833,A
+A:NL:N:M:A:A:I:O:B:A:A:A,NL,Netherlands,Number,M,All,Inside the country,At ATMs,All users,,L,,L,389.191,A,336.747,A,323.16,A,297.308,A,392.046,A,347.442,A,117.833,A
+A:NL:N:M:D:I:I:O:A:A:A:A,NL,Netherlands,Number,M,Inside the country,Inside the country,All,All users,424.715,A,401.376,A,380.806,A,322.858,A,307.647,A,282.764,A,260.594,A,229.746,A,103.957,A
+A:NL:N:M:D:I:I:O:B:A:A:A,NL,Netherlands,Number,M,Inside the country,Inside the country,At ATMs,All users,419.25,A,395.453,A,379.077,A,321.931,A,307.32,A,282.45,A,260.283,A,229.479,A,103.798,A
+A:NL:N:M:D:I:I:O:S:A:A:A,NL,Netherlands,Number,M,Inside the country,Inside the country,At bank branches without use of ATMs,All users,5.465,A,5.923,A,1.729,A,0.927,A,0.327,A,0.314,A,0.311,A,0.267,A,0.159,A
+A:NL:N:M:Z:I:A:O:A:A:A:A,NL,Netherlands,Number,M,Inside the country,All,All,All users,,L,,L,385.184,A,332.566,A,320.234,A,297.248,A,272.109,A,239.679,A,108.693,A
+A:NL:N:M:Z:I:A:O:B:A:A:A,NL,Netherlands,Number,M,Inside the country,All,At ATMs,All users,438.874,A,414.477,A,183.281,A,331.639,A,319.906,A,296.933,A,271.798,A,239.412,A,108.534,A
+A:NL:N:M:Z:I:O:O:A:A:A:A,NL,Netherlands,Number,M,Inside the country,Outside the country,All,All users,,L,,L,4.378,A,9.708,A,12.587,A,14.484,A,11.515,A,9.933,A,4.736,A
+A:NL:N:M:Z:O:I:O:A:A:A:A,NL,Netherlands,Number,M,Outside the country,Inside the country,All,All users,,L,,L,8.384,A,13.89,A,15.514,A,14.544,A,131.452,A,117.696,A,13.876,A
+A:NL:N:N:A:A:I:O:A:A:A:A,NL,Netherlands,Number,N,All,Inside the country,All,All users,22.388,A,21.364,A,21.055,A,21.183,A,20.457,A,19.845,A,19.727,A,18.819,A,13.889,A
+A:NL:N:N:D:I:I:O:A:A:A:A,NL,Netherlands,Number,N,Inside the country,Inside the country,All,All users,,L,,L,8.401,A,16.508,A,16.221,A,16.096,A,15.668,A,15.094,A,11.577,A
+A:NL:N:O:A:A:I:O:A:A:A:A,NL,Netherlands,Number,O,All,Inside the country,All,All users,21.816,A,18.387,A,11.819,A,0,A,0,A,0,A,0,A,0,A,0,A
+A:NL:V:A:A:Z:Z:A:A:A:F:A,NL,Netherlands,Value,A,Not applicable,Not applicable,All,All users,,L,,L,,L,,L,,L,,L,,L,337502.017,A,916835.976,A
+A:NL:V:B:A:Z:Z:A:A:A:F:A,NL,Netherlands,Value,B,Not applicable,Not applicable,All,All users,,L,,L,,L,,L,,L,,L,,L,337502.017,A,916835.976,A
+A:NL:V:C:A:Z:Z:A:A:Z:A:A,NL,Netherlands,Value,C,Not applicable,Not applicable,All,All users,290408.024,A,277946.044,A,218729.764,A,240463.136,A,227046.149,A,235575.149,A,267126.548,A,275982.692,A,264187.659,A
+A:NL:V:D:A:Z:Z:A:A:Z:A:A,NL,Netherlands,Value,D,Not applicable,Not applicable,All,All users,,L,1632.355,A,1900.744,A,1991.064,A,1781.666,A,848.29,A,1877.911,A,1773.869,A,127.605,A
+A:NL:V:E:A:Z:Z:A:A:Z:A:A,NL,Netherlands,Value,E,Not applicable,Not applicable,All,All users,,L,0,A,0.007,A,0.002,A,0.006,A,0,A,0,A,0,A,0,A
+A:NL:V:F:A:A:I:A:A:D:A:A,NL,Netherlands,Value,F,All,Inside the country,All,All users,87486.656,A,91759.067,A,97398.437,A,104417.08,A,112541.538,A,118333.821,A,125882.271,A,129958.177,A,118801.868,A
+A:NL:V:F:C:O:I:A:A:A:A:A,NL,Netherlands,Value,F,Outside the country,Inside the country,At ATMs,All users,,L,,L,4512.412,A,4942.489,A,5213.643,A,5720.377,A,6393.215,A,6949.356,A,5829.618,A
+A:NL:V:F:D:I:I:A:A:A:A:A,NL,Netherlands,Value,F,Inside the country,Inside the country,At ATMs,All users,,L,,L,105155.435,A,112902.419,A,121792.774,A,128312.238,A,136490.011,A,141410.551,A,127913.082,A
+A:NL:V:F:Z:I:A:P:A:A:A:A,NL,Netherlands,Value,F,Inside the country,All,At ATMs,All users,,L,,L,684.001,A,1309.589,A,1338.495,A,1411.944,A,1487.536,A,1649.987,A,1749.857,A
+A:NL:V:F:Z:I:O:A:A:A:A:A,NL,Netherlands,Value,F,Inside the country,Outside the country,At ATMs,All users,,L,,L,555.296,A,1338.025,A,1530.048,A,2031.341,A,4063.832,A,4265.371,A,3672.778,A
+A:NL:V:L:A:A:I:O:A:A:A:A,NL,Netherlands,Value,L,All,Inside the country,At POS,All users,,L,,L,91435.164,A,90185.152,A,83600.036,A,81797.805,A,98661.392,A,89212.583,A,55184.591,A
+A:NL:V:M:A:A:I:O:A:A:A:A,NL,Netherlands,Value,M,All,Inside the country,At POS,All users,,L,,L,51405.552,A,47992.847,A,45684.653,A,44065.88,A,59654.209,A,55604.33,A,32983.602,A
+A:NL:V:M:A:A:I:O:B:A:A:A,NL,Netherlands,Value,M,All,Inside the country,At ATMs,All users,,L,,L,51405.552,A,47992.847,A,45684.653,A,44065.88,A,59654.209,A,55604.33,A,32983.602,A
+A:NL:V:M:D:I:I:O:A:A:A:A,NL,Netherlands,Value,M,Inside the country,Inside the country,At POS,All users,53913.73,A,51902.476,A,50237.752,A,46001.118,A,43440.009,A,42157.289,A,40674.177,A,37755.176,A,30716.152,A
+A:NL:V:M:D:I:I:O:B:A:A:A,NL,Netherlands,Value,M,Inside the country,Inside the country,At ATMs,All users,49200,A,47072.031,A,47020.804,A,43621.423,A,42348.476,A,41102.139,A,39718.689,A,36928.995,A,30237.121,A
+A:NL:V:M:D:I:I:O:S:A:A:A,NL,Netherlands,Value,M,Inside the country,Inside the country,At bank branches without use of ATMs,All users,4713.73,A,4830.445,A,3216.948,A,2379.695,A,1091.533,A,1055.15,A,955.488,A,826.181,A,479.031,A
+A:NL:V:M:Z:I:A:O:A:A:A:A,NL,Netherlands,Value,M,Inside the country,All,At POS,All users,,L,,L,50854.275,A,47456.927,A,45145.896,A,44066.562,A,42165.21,A,39115.361,A,31451.535,A
+A:NL:V:M:Z:I:A:O:B:A:A:A,NL,Netherlands,Value,M,Inside the country,All,At ATMs,All users,52519.916,A,50263.248,A,24541.324,A,40729.054,A,44054.363,A,43011.412,A,41209.722,A,38289.18,A,21374.69,A
+A:NL:V:M:Z:I:O:O:A:A:A:A,NL,Netherlands,Value,M,Inside the country,Outside the country,At POS,All users,,L,,L,616.523,A,1455.809,A,1705.887,A,1909.273,A,1491.033,A,1360.185,A,735.383,A
+A:NL:V:M:Z:O:I:O:A:A:A:A,NL,Netherlands,Value,M,Outside the country,Inside the country,At POS,All users,,L,,L,1167.8,A,1991.729,A,2244.644,A,1908.591,A,18980.032,A,17849.154,A,2267.45,A
+A:NL:V:N:A:A:I:O:A:A:A:A,NL,Netherlands,Value,N,All,Inside the country,At POS,All users,38415.469,A,39028.282,A,39820.244,A,42192.305,A,37915.383,A,37731.925,A,39007.183,A,33608.253,A,22200.989,A
+A:NL:V:N:D:I:I:O:A:A:A:A,NL,Netherlands,Value,N,Inside the country,Inside the country,At POS,All users,,L,,L,7740.531,A,15440.044,A,15598.033,A,15324.409,A,14837.741,A,14246.028,A,10767.712,A
+A:NL:V:O:A:A:I:O:A:A:A:A,NL,Netherlands,Value,O,All,Inside the country,At POS,All users,365.388,A,300.161,A,209.368,A,0,A,0,A,0,A,0,A,0,A,0,A
+A:SA:N:A:A:Z:Z:A:A:Z:A:A,SA,Saudi Arabia,Number,A,Not applicable,Not applicable,All,All users,453.511,A,492.658,A,583.8,A,676.325,A,819.575,A,1045,A,1417,A,2057,A,3337,A
+A:SA:N:B:A:Z:Z:A:A:Z:A:A,SA,Saudi Arabia,Number,B,Not applicable,Not applicable,All,All users,54.909,A,57.967,A,64.58,A,81.534,A,89.285,A,103,A,136,A,159,A,202,A
+A:SA:N:C:A:Z:Z:A:A:Z:A:A,SA,Saudi Arabia,Number,C,Not applicable,Not applicable,At ATMs,All users,1.176,A,1.418,A,1.592,A,2.304,A,3.462,A,3,A,2,A,2,A,2,A
+A:SA:N:D:A:Z:Z:A:A:Z:A:A,SA,Saudi Arabia,Number,D,Not applicable,Not applicable,At ATMs,All users,7.073,A,7.125,A,6.81,A,6.66,A,5.458,A,5,A,4,A,3,A,2,A
+A:SA:N:E:A:Z:Z:A:A:Z:A:A,SA,Saudi Arabia,Number,E,Not applicable,Not applicable,At ATMs,All users,152.403,A,160.832,A,183.784,A,190.911,A,196.801,A,226,A,243,A,270,A,279,A
+A:SA:N:F:A:A:I:A:A:D:A:A,SA,Saudi Arabia,Number,F,All,Inside the country,At ATMs,All users,,M,237.499,A,294.735,A,351.026,A,465.139,A,636,A,938,A,1503,A,2706,A
+A:SA:N:L:A:A:I:O:A:A:A:A,SA,Saudi Arabia,Number,L,All,Inside the country,All,All users,1330.076,A,1332.781,A,1525.573,A,1791.975,A,1918.134,A,2019,A,2134,A,2125,A,1747,A
+A:SA:N:M:A:A:I:O:A:A:A:A,SA,Saudi Arabia,Number,M,All,Inside the country,All,All users,1330.076,A,1332.781,A,1525.573,A,1791.975,A,1918.134,A,2019,A,2134,A,2125,A,1747,A
+A:SA:N:M:A:A:I:O:B:A:A:A,SA,Saudi Arabia,Number,M,All,Inside the country,At ATMs,All users,1332.996,A,1335.641,A,1528.993,A,1795.535,A,1922.694,A,2012,A,2126,A,2125,A,1747,A
+A:SA:N:M:D:I:I:O:A:A:A:A,SA,Saudi Arabia,Number,M,Inside the country,Inside the country,All,All users,1323.776,A,1327.151,A,1519.753,A,1785.275,A,1912.464,A,2012,A,2126,A,2125,A,1747,A
+A:SA:N:M:D:I:I:O:B:A:A:A,SA,Saudi Arabia,Number,M,Inside the country,Inside the country,At ATMs,All users,1323.776,A,1327.151,A,1519.753,A,1785.275,A,1912.464,A,2012,A,2126,A,2125,A,1747,A
+A:SA:N:M:Z:I:A:O:B:A:A:A,SA,Saudi Arabia,Number,M,Inside the country,All,At ATMs,All users,1332.996,A,1335.641,A,1528.993,A,1795.535,A,1922.694,A,2012,A,2126,A,2125,A,1747,A
+A:SA:V:A:A:Z:Z:A:A:Z:A:A,SA,Saudi Arabia,Value,A,Not applicable,Not applicable,All,All users,66518966,A,55850119,A,55711978,A,50013213,A,40691474.82,A,63132169,A,50978624,A,49335563,A,61847956,A
+A:SA:V:B:A:Z:Z:A:A:Z:A:A,SA,Saudi Arabia,Value,B,Not applicable,Not applicable,All,All users,65419732,A,54659841,A,54459330,A,48865172,A,39716991,A,62189333,A,49983911,A,48210857,A,60689661,A
+A:SA:V:C:A:Z:Z:A:A:Z:A:A,SA,Saudi Arabia,Value,C,Not applicable,Not applicable,All,All users,472.45969,A,538.934,A,571.888,A,633.598,A,789.081,A,794,A,768,A,745,A,783.569,A
+A:SA:V:D:A:Z:Z:A:A:Z:A:A,SA,Saudi Arabia,Value,D,Not applicable,Not applicable,All,All users,837615.85,A,878885.82,A,897389,A,757185,A,558080,A,480779,A,393768,A,391292,A,318955,A
+A:SA:V:E:A:Z:Z:A:A:Z:A:A,SA,Saudi Arabia,Value,E,Not applicable,Not applicable,All,All users,138920.74,A,176659.3,A,194717.39,A,217387.39,A,232850.621,A,260805,A,367872,A,444875,A,481259,A
+A:SA:V:F:A:A:I:A:A:D:A:A,SA,Saudi Arabia,Value,F,All,Inside the country,All,All users,,M,114451.7,A,133697.42,A,146581.69,A,154450.0277,A,170724,A,198917,A,250382,A,320892,A
+A:SA:V:L:A:A:I:O:A:A:A:A,SA,Saudi Arabia,Value,L,All,Inside the country,All,All users,619009.3,A,660690.03,A,723207.65,A,768495.67,A,744358.0468,A,728518,A,748333,A,740640,A,628891,A
+A:SA:V:M:A:A:I:O:A:A:A:A,SA,Saudi Arabia,Value,M,All,Inside the country,All,All users,619009.3,A,660690.03,A,723207.65,A,768495.67,A,744358.0468,A,728518,A,748333,A,740640,A,628891,A
+A:SA:V:M:A:A:I:O:B:A:A:A,SA,Saudi Arabia,Value,M,All,Inside the country,At ATMs,All users,625753.9,A,658377.65,A,722041,A,768488.97,A,753450.6012,A,728513,A,748324,A,740640,A,628891,A
+A:SA:V:M:D:I:I:O:A:A:A:A,SA,Saudi Arabia,Value,M,Inside the country,Inside the country,All,All users,619003,A,660684.4,A,723201.83,A,768488.97,A,744352.3768,A,728511,A,748324,A,740640,A,628891,A
+A:SA:V:M:D:I:I:O:B:A:A:A,SA,Saudi Arabia,Value,M,Inside the country,Inside the country,At ATMs,All users,619003,A,660684.4,A,723201.83,A,768488.97,A,744352.3768,A,728511,A,748324,A,740640,A,628891,A
+A:SA:V:M:Z:I:A:O:B:A:A:A,SA,Saudi Arabia,Value,M,Inside the country,All,At ATMs,All users,625754,A,668141.4,A,731402.83,A,777199.97,A,753449.3768,A,728511,A,748324,A,740640,A,628891,A
+A:SE:N:A:A:Z:Z:A:A:A:F:A,SE,Sweden,Number,A,Not applicable,Not applicable,At POS,All users,0.05,A,3.18,A,20.5,A,79.72,A,167.87,A,275.13,A,393.97,A,523,A,623,A
+A:SE:N:B:A:Z:Z:A:A:A:F:A,SE,Sweden,Number,B,Not applicable,Not applicable,At POS,All users,0.05,A,3.18,A,20.5,A,79.72,A,167.87,A,275.13,A,393.97,A,523,A,623,A
+A:SE:N:C:A:Z:Z:A:A:Z:A:A,SE,Sweden,Number,C,Not applicable,Not applicable,At POS,All users,297,A,312,A,323,A,280,A,301,A,334,A,360.34,A,400,A,447.89,A
+A:SE:N:D:A:Z:Z:A:A:Z:A:A,SE,Sweden,Number,D,Not applicable,Not applicable,At POS,All users,0.2,A,0.1,A,0.02,A,0.08,A,0.06,A,0.05,A,0,A,0,A,0,A
+A:SE:N:D:A:Z:Z:Q:A:Z:A:A,SE,Sweden,Number,D,Not applicable,Not applicable,All,All users,0.2,A,0.1,A,0.02,A,0.08,A,0.06,A,0.05,A,0,A,0,A,0,A
+A:SE:N:E:A:Z:Z:A:A:Z:A:A,SE,Sweden,Number,E,Not applicable,Not applicable,All,All users,0,A,0,A,0,A,0,A,0,A,0,A,0.9,A,0.9,A,0.6,A
+A:SE:N:F:A:A:I:A:A:D:A:A,SE,Sweden,Number,F,All,Inside the country,All,All users,1810,A,1986.82,A,2169.52,A,2343,A,2604,A,2778,A,2953.95,A,3073.98,A,2835.84,A
+A:SE:N:F:Z:I:A:A:A:A:A:A,SE,Sweden,Number,F,Inside the country,All,All,All users,1979,A,2240,A,2370,A,2501,A,2814,A,3004,A,3008.96,A,3225.68,A,2822.46,A
+A:SE:N:F:Z:I:O:A:A:A:A:A,SE,Sweden,Number,F,Inside the country,Outside the country,All,All users,94,A,101,A,99,A,114,A,166,A,198,A,250.03,A,308.62,A,182.94,A
+A:SE:N:L:A:A:I:O:A:A:A:A,SE,Sweden,Number,L,All,Inside the country,All,All users,210,A,221,A,220,A,175.56,A,167.18,A,148,A,126.96,A,184.66,A,136.2,A
+A:SE:N:M:A:A:I:O:A:A:A:A,SE,Sweden,Number,M,All,Inside the country,All,All users,210,A,221,A,220,A,175.56,A,148.88,A,130,A,119.14,A,175.88,A,127.2,A
+A:SE:N:M:A:A:I:O:B:A:A:A,SE,Sweden,Number,M,All,Inside the country,At ATMs,All users,210,A,229,A,216,A,154.18,A,139,A,121,A,91.49,A,87.16,A,65,A
+A:SE:N:M:D:I:I:O:A:A:A:A,SE,Sweden,Number,M,Inside the country,Inside the country,All,All users,202,A,214,A,216,A,163.3,A,136,A,117,A,87.95,A,83.78,A,63.6,A
+A:SE:N:M:D:I:I:O:B:A:A:A,SE,Sweden,Number,M,Inside the country,Inside the country,At ATMs,All users,202,A,214,A,216,A,163.3,A,136,A,117,A,87.95,A,83.78,A,63.6,A
+A:SE:N:M:Z:I:A:O:A:A:A:A,SE,Sweden,Number,M,Inside the country,All,All,All users,207,A,209,A,214,A,154.18,A,139,A,121,A,91.49,A,87.16,A,65,A
+A:SE:N:M:Z:I:A:O:B:A:A:A,SE,Sweden,Number,M,Inside the country,All,At ATMs,All users,207,A,229,A,216,A,154.18,A,139,A,121,A,91.49,A,87.16,A,65,A
+A:SE:N:M:Z:I:O:O:A:A:A:A,SE,Sweden,Number,M,Inside the country,Outside the country,All,All users,5,A,4,A,2,A,3.18,A,3,A,4,A,3.54,A,3.38,A,1.4,A
+A:SE:N:M:Z:O:I:O:A:A:A:A,SE,Sweden,Number,M,Outside the country,Inside the country,All,All users,8,A,7,A,4,A,12.26,A,12.88,A,13,A,31.19,A,92.1,A,63.6,A
+A:SE:N:N:A:A:I:O:A:A:A:A,SE,Sweden,Number,N,All,Inside the country,All,All users,0,A,0,A,0,A,,L,5.4,A,5,A,7.82,A,8.78,A,9,A
+A:SE:N:N:D:I:I:O:A:A:A:A,SE,Sweden,Number,N,Inside the country,Inside the country,All,All users,0,A,0,A,0,A,,L,5.4,A,5,A,5.07,A,5.7,A,6,A
+A:SE:V:A:A:Z:Z:A:A:A:F:A,SE,Sweden,Value,A,Not applicable,Not applicable,All,All users,18.33,A,1880.63,A,10984.08,A,42400.4,A,91651.59,A,150186.65,A,206427.37,A,255000,A,313752,A
+A:SE:V:B:A:Z:Z:A:A:A:F:A,SE,Sweden,Value,B,Not applicable,Not applicable,All,All users,18.33,A,1880.63,A,10984.08,A,42400.4,A,91651.59,A,150186.65,A,206427.37,A,255000,A,313752,A
+A:SE:V:C:A:Z:Z:A:A:Z:A:A,SE,Sweden,Value,C,Not applicable,Not applicable,All,All users,545000,A,553000,A,558000,A,477739,A,508063,A,545274,A,580894.43,A,622000,A,634700,A
+A:SE:V:C:E:Z:Z:A:A:Z:A:A,SE,Sweden,Value,C,Not applicable,Not applicable,At ATMs,All users,,L,,L,,L,,L,,L,,L,,L,,L,0,A
+A:SE:V:D:A:Z:Z:A:A:Z:A:A,SE,Sweden,Value,D,Not applicable,Not applicable,At ATMs,All users,40300,A,12600,A,6400,A,4450,A,3681,A,3045,A,32,A,2,A,0,A
+A:SE:V:E:A:Z:Z:A:A:Z:A:A,SE,Sweden,Value,E,Not applicable,Not applicable,At ATMs,All users,0,A,0,A,0,A,0,A,0,A,0,A,1900,A,1900,A,1830,A
+A:SE:V:F:A:A:I:A:A:D:A:A,SE,Sweden,Value,F,All,Inside the country,At ATMs,All users,617000,A,657793,A,718980,A,668615,A,731697,A,765021,A,801888,A,824214,A,771379,A
+A:SE:V:F:Z:I:A:A:A:A:A:A,SE,Sweden,Value,F,Inside the country,All,At POS,All users,626380,A,665887,A,690337,A,747050,A,997248,A,881426,A,877296.95,A,920412.39,A,830449,A
+A:SE:V:F:Z:I:O:A:A:A:A:A,SE,Sweden,Value,F,Inside the country,Outside the country,At POS,All users,45820,A,45107,A,45107,A,60808,A,80351,A,81105,A,102855.51,A,107873.81,A,63660,A
+A:SE:V:L:A:A:I:O:A:A:A:A,SE,Sweden,Value,L,All,Inside the country,At POS,All users,187190,A,214317,A,221310,A,167322,A,132963,A,163930,A,169406.42,A,243109.18,A,191285,A
+A:SE:V:M:A:A:I:O:A:A:A:A,SE,Sweden,Value,M,All,Inside the country,At POS,All users,187190,A,214317,A,221310,A,167322,A,127281,A,144330,A,142186.85,A,214811,A,164085,A
+A:SE:V:M:A:A:I:O:B:A:A:A,SE,Sweden,Value,M,All,Inside the country,At ATMs,All users,187190,A,214317,A,221310,A,167322,A,127281,A,144330,A,142186.85,A,214811,A,164085,A
+A:SE:V:M:D:I:I:O:A:A:A:A,SE,Sweden,Value,M,Inside the country,Inside the country,At POS,All users,176180,A,206417,A,209800,A,149773,A,107984,A,125095,A,104508.32,A,100011,A,81740,A
+A:SE:V:M:D:I:I:O:B:A:A:A,SE,Sweden,Value,M,Inside the country,Inside the country,At ATMs,All users,176180,A,206417,A,209800,A,149773,A,107984,A,125095,A,104508.32,A,100011,A,81740,A
+A:SE:V:M:Z:I:A:O:A:A:A:A,SE,Sweden,Value,M,Inside the country,All,At POS,All users,182505,A,218474,A,213100,A,153262,A,110161,A,129495,A,108253.32,A,103805,A,83630,A
+A:SE:V:M:Z:I:A:O:B:A:A:A,SE,Sweden,Value,M,Inside the country,All,At ATMs,All users,182505,A,218474,A,213100,A,153262,A,110161,A,129495,A,108253.32,A,103805,A,83630,A
+A:SE:V:M:Z:I:O:O:A:A:A:A,SE,Sweden,Value,M,Inside the country,Outside the country,At POS,All users,6325,A,12057,A,3300,A,3489,A,2177,A,4400,A,3745,A,3794,A,1890,A
+A:SE:V:M:Z:O:I:O:A:A:A:A,SE,Sweden,Value,M,Outside the country,Inside the country,At POS,All users,11010,A,7900,A,11510,A,17549,A,19297,A,19235,A,37678.53,A,114800,A,82345,A
+A:SE:V:N:A:A:I:O:A:A:A:A,SE,Sweden,Value,N,All,Inside the country,At POS,All users,,L,,L,,L,,L,5682,A,19600,A,27219.56,A,28298.18,A,27200,A
+A:SE:V:N:D:I:I:O:A:A:A:A,SE,Sweden,Value,N,Inside the country,Inside the country,At POS,All users,,L,,L,,L,,L,5682,A,19600,A,17910,A,18400,A,18000,A
+A:SG:N:A:A:Z:Z:A:A:A:F:A,SG,Singapore,Number,A,Not applicable,Not applicable,All,All users,,M,,M,,M,18.849,A,26.858,A,38.563,A,59.633,A,93.24,A,146.972,A
+A:SG:N:B:A:Z:Z:A:A:Z:A:A,SG,Singapore,Number,B,Not applicable,Not applicable,All,All users,39.9,A,42.67,A,40.64,A,60.79,A,72,A,86.51,A,109.32,A,145.46,A,198.438,A
+A:SG:N:C:A:Z:Z:A:A:Z:A:A,SG,Singapore,Number,C,Not applicable,Not applicable,All,All users,56.45,A,57.13,A,57.18,A,57.02,A,57.7,A,58.42,A,59.52,A,59.82,A,56.916,A
+A:SG:N:D:A:Z:Z:A:A:Z:A:A,SG,Singapore,Number,D,Not applicable,Not applicable,All,All users,74.56,A,72.23,A,69.41,A,65.74,A,61.92,A,57.02,A,51.74,A,46.064,A,31.198,A
+A:SG:N:F:A:A:I:A:A:D:A:A,SG,Singapore,Number,F,All,Inside the country,All,All users,235.27,A,258.16,A,293.89,A,301.93,A,347.8,A,407.54,A,494.68,A,575.829,A,613.288,A
+A:SG:N:M:D:I:I:O:A:A:A:A,SG,Singapore,Number,M,Inside the country,Inside the country,All,All users,219.05,A,229.67,A,229.42,A,229.68,A,226.28,A,217.6,A,213.17,A,205.29,A,172.289,A
+A:SG:N:M:D:I:I:O:B:A:A:A,SG,Singapore,Number,M,Inside the country,Inside the country,At ATMs,All users,219.05,A,229.67,A,229.42,A,229.68,A,226.28,A,217.6,A,213.17,A,205.29,A,172.289,A
+A:SG:V:A:A:Z:Z:A:A:A:F:A,SG,Singapore,Value,A,Not applicable,Not applicable,At ATMs,All users,,M,,M,,M,37186.989,A,54064.075,A,73321.197,A,108232.073,A,148055.407,A,210794.7695,A
+A:SG:V:B:A:Z:Z:A:A:Z:A:A,SG,Singapore,Value,B,Not applicable,Not applicable,At ATMs,All users,212969.05,A,231797.9,A,243305.12,A,295738.12,A,324666.8,A,357650,A,414954.23,A,486699.35,A,564260.283,A
+A:SG:V:C:A:Z:Z:A:A:Z:A:A,SG,Singapore,Value,C,Not applicable,Not applicable,All,All users,79640.61,A,85293.23,A,91620.51,A,97089.9,A,101143,A,105620,A,111869.81,A,112794.02,A,100043.4051,A
+A:SG:V:D:A:Z:Z:A:A:Z:A:A,SG,Singapore,Value,D,Not applicable,Not applicable,All,All users,693693.75,A,724447.59,A,700596.29,A,692228.629,A,654131.283,A,659137.94,A,654446.25,A,570486.31,A,430975.673,A
+A:SG:V:F:A:A:I:A:A:D:A:A,SG,Singapore,Value,F,All,Inside the country,All,All users,28821.55,A,30780.03,A,32216.3,A,32603.62,A,34699.06,A,31772.77,A,35656.49,A,35353.7,A,34845.411,A
+A:SG:V:M:D:I:I:O:A:A:A:A,SG,Singapore,Value,M,Inside the country,Inside the country,All,All users,59105.14,A,64326.4,A,65217.77,A,65782.73,A,64946.63,A,64074.73,A,63835.58,A,61055.78,A,48839,A
+A:SG:V:M:D:I:I:O:B:A:A:A,SG,Singapore,Value,M,Inside the country,Inside the country,At ATMs,All users,59105.14,A,64326.4,A,65217.77,A,65782.73,A,64946.63,A,64074.73,A,63835.58,A,61055.78,A,48839,A
+A:TR:N:A:A:Z:Z:A:A:A:A:N,TR,Turkey,Number,A,Not applicable,Not applicable,All,All users,,L,,L,,L,,L,,L,11.476,A,23.02,A,42.309,A,79.245,A
+A:TR:N:B:A:Z:Z:A:A:A:F:A,TR,Turkey,Number,B,Not applicable,Not applicable,All,All users,,M,,M,,M,,M,,M,,M,,M,,M,,M
+A:TR:N:D:A:Z:Z:A:A:Z:A:A,TR,Turkey,Number,D,Not applicable,Not applicable,At ATMs,All users,19.526,A,20.606,A,22.575,A,22.038,A,20.413,A,19.479,A,20.927,A,16.872,A,13.934,A
+A:TR:N:F:A:A:I:A:A:D:A:A,TR,Turkey,Number,F,All,Inside the country,At ATMs,All users,437.356,A,532.123,A,644.709,A,812.168,A,1027.609,A,1359.957,A,1754.96,A,2129.221,A,2287.776,A
+A:TR:N:F:C:O:I:A:A:A:A:A,TR,Turkey,Number,F,Outside the country,Inside the country,At ATMs,All users,35.276,A,48.706,A,55.45,A,61.292,A,75.661,A,98.319,A,118.248,A,143.46,A,191.238,A
+A:TR:N:F:D:I:I:A:A:A:A:A,TR,Turkey,Number,F,Inside the country,Inside the country,At ATMs,All users,2829.329,A,3165.537,A,3403.649,A,3766.431,A,4148.959,A,4737.368,A,5549.735,A,6387.973,A,6609.725,A
+A:TR:N:F:Z:I:A:A:A:A:A:A,TR,Turkey,Number,F,Inside the country,All,At ATMs,All users,2851.654,A,3192.7,A,3440.27,A,3810.255,A,4188.445,A,4788.715,A,5622.294,A,6496.292,A,6674.647,A
+A:TR:N:F:Z:I:A:A:A:F:A:A,TR,Turkey,Number,F,Inside the country,All,All,All users,2408.539,A,2610.874,A,2710.661,A,2916.153,A,3091.458,A,3373.14,A,3787.648,A,4262.857,A,4242.977,A
+A:TR:N:F:Z:I:O:A:A:A:A:A,TR,Turkey,Number,F,Inside the country,Outside the country,All,All users,22.348,A,27.163,A,36.621,A,43.824,A,39.485,A,51.348,A,72.559,A,108.319,A,64.923,A
+A:TR:N:L:A:A:I:O:A:A:A:A,TR,Turkey,Number,L,All,Inside the country,All,All users,960.721,A,1026.338,A,1100.502,A,1185.303,A,1281.163,A,1364.546,A,1488.179,A,1591.595,A,1344.285,A
+A:TR:N:M:A:A:I:O:A:A:A:A,TR,Turkey,Number,M,All,Inside the country,All,All users,960.721,A,1024.851,A,1095.009,A,1177.997,A,1273.543,A,1353.034,A,1469.96,A,1569.6,A,1318.358,A
+A:TR:N:M:A:A:I:O:B:A:A:A,TR,Turkey,Number,M,All,Inside the country,At ATMs,All users,960.721,A,1024.851,A,1095.009,A,1177.997,A,1273.543,A,1353.034,A,1469.96,A,1569.6,A,1318.358,A
+A:TR:N:M:D:I:I:O:A:A:A:A,TR,Turkey,Number,M,Inside the country,Inside the country,All,All users,957.112,A,1021.069,A,1091.507,A,1174.14,A,1269.61,A,1348.76,A,1465.828,A,1565.501,A,1315.404,A
+A:TR:N:M:D:I:I:O:B:A:A:A,TR,Turkey,Number,M,Inside the country,Inside the country,At ATMs,All users,957.112,A,1021.069,A,1091.507,A,1174.14,A,1269.61,A,1348.76,A,1465.828,A,1565.501,A,1315.404,A
+A:TR:N:M:Z:I:A:O:A:A:A:A,TR,Turkey,Number,M,Inside the country,All,All,All users,970.889,A,1036.413,A,1108.97,A,1193.817,A,1286.523,A,1365.499,A,1501.671,A,1594.997,A,1325.36,A
+A:TR:N:M:Z:I:A:O:B:A:A:A,TR,Turkey,Number,M,Inside the country,All,At ATMs,All users,970.889,A,1036.413,A,1108.97,A,1193.817,A,1286.523,A,1365.499,A,1501.671,A,1594.997,A,1325.36,A
+A:TR:N:M:Z:I:O:O:A:A:A:A,TR,Turkey,Number,M,Inside the country,Outside the country,All,All users,13.777,A,15.344,A,17.463,A,19.677,A,16.913,A,16.739,A,35.843,A,29.496,A,9.957,A
+A:TR:N:M:Z:O:I:O:A:A:A:A,TR,Turkey,Number,M,Outside the country,Inside the country,All,All users,3.609,A,3.781,A,3.502,A,3.857,A,3.933,A,4.274,A,4.133,A,4.1,A,2.954,A
+A:TR:N:O:A:A:I:O:A:A:A:A,TR,Turkey,Number,O,All,Inside the country,All,All users,,M,1.487,A,5.493,A,7.307,A,7.62,A,11.513,A,18.219,A,21.995,A,25.927,A
+A:TR:V:A:A:Z:Z:A:A:A:A:N,TR,Turkey,Value,A,Not applicable,Not applicable,All,All users,,L,,L,,L,,L,,L,677.6,A,1615.151,A,2923.623,A,5120.5,A
+A:TR:V:B:A:Z:Z:A:A:A:F:A,TR,Turkey,Value,B,Not applicable,Not applicable,All,All users,,M,,M,,M,,M,,M,,M,,M,,M,,M
+A:TR:V:D:A:Z:Z:A:A:Z:A:A,TR,Turkey,Value,D,Not applicable,Not applicable,At POS,All users,371541.638,A,461705.089,A,581836.544,A,646833.863,A,680926.27,A,767796.531,A,939066.195,A,916400,A,975897.142,A
+A:TR:V:F:A:A:I:A:A:D:A:A,TR,Turkey,Value,F,All,Inside the country,At POS,All users,16335.122,A,21861.577,A,28745.248,A,36774.824,A,49464.169,A,69494.227,A,95436.761,A,130397.648,A,180300.992,A
+A:TR:V:F:A:A:I:A:A:Z:A:A,TR,Turkey,Value,F,All,Inside the country,All,All users,346086.104,A,408729.361,A,459220.624,A,525905.505,A,586814.817,A,677478.725,A,816567.998,A,977898.092,A,1146646.36,A
+A:TR:V:F:C:O:I:A:A:A:A:A,TR,Turkey,Value,F,Outside the country,Inside the country,All,All users,5997.102,A,7590.657,A,9104.398,A,11349.513,A,13598.885,A,16933.429,A,20513.1,A,25394.189,A,22712.472,A
+A:TR:V:F:D:I:I:A:A:A:A:A,TR,Turkey,Value,F,Inside the country,Inside the country,All,All users,340089.002,A,401138.704,A,450116.226,A,514555.992,A,573215.933,A,660545.296,A,796054.987,A,952503.903,A,1123933.89,A
+A:TR:V:F:Z:I:A:A:A:A:A:A,TR,Turkey,Value,F,Inside the country,All,All,All users,349798.623,A,413303.941,A,466702.953,A,533899.51,A,588952.142,A,684278.641,A,840338.342,A,1034118.13,A,1170411.45,A
+A:TR:V:F:Z:I:O:A:A:A:A:A,TR,Turkey,Value,F,Inside the country,Outside the country,At POS,All users,9711.385,A,12165.236,A,16586.727,A,19343.519,A,15734.161,A,23733.345,A,44283.355,A,81614.226,A,46477.559,A
+A:TR:V:L:A:A:I:O:A:A:A:A,TR,Turkey,Value,L,All,Inside the country,At POS,All users,326283.803,A,379416.52,A,434882.98,A,503360.272,A,597724.922,A,671471.506,A,795317.445,A,937152.65,A,1029510.03,A
+A:TR:V:M:A:A:I:O:A:A:A:A,TR,Turkey,Value,M,All,Inside the country,At POS,All users,326283.803,A,379015.603,A,433347.158,A,501207.809,A,595314.36,A,666786.669,A,787193.261,A,927946.733,A,1017562.39,A
+A:TR:V:M:A:A:I:O:B:A:A:A,TR,Turkey,Value,M,All,Inside the country,At ATMs,All users,326283.803,A,379015.603,A,433347.158,A,501207.809,A,595314.36,A,666786.669,A,787193.26,A,927946.733,A,1017562.39,A
+A:TR:V:M:D:I:I:O:A:A:A:A,TR,Turkey,Value,M,Inside the country,Inside the country,At POS,All users,325134.85,A,377742.757,A,432074.212,A,499690.263,A,593581.851,A,664554.488,A,784544.379,A,924949.14,A,1014574.37,A
+A:TR:V:M:D:I:I:O:B:A:A:A,TR,Turkey,Value,M,Inside the country,Inside the country,At ATMs,All users,325134.85,A,377742.757,A,432074.212,A,499690.263,A,593581.851,A,664554.488,A,784544.379,A,924949.14,A,1014574.37,A
+A:TR:V:M:Z:I:A:O:A:A:A:A,TR,Turkey,Value,M,Inside the country,All,At POS,All users,330797.914,A,384482.853,A,441517.198,A,509669.797,A,602257.138,A,676875.907,A,813517.876,A,961932.03,A,1028650.8,A
+A:TR:V:M:Z:I:A:O:B:A:A:A,TR,Turkey,Value,M,Inside the country,All,At ATMs,All users,330797.914,A,384482.853,A,441517.198,A,509669.797,A,602257.138,A,676875.907,A,813517.876,A,961932.03,A,1028650.8,A
+A:TR:V:M:Z:I:O:O:A:A:A:A,TR,Turkey,Value,M,Inside the country,Outside the country,At POS,All users,5663.064,A,6740.096,A,9442.985,A,9979.533,A,8675.288,A,12321.419,A,28973.497,A,36982.89,A,14076.431,A
+A:TR:V:M:Z:O:I:O:A:A:A:A,TR,Turkey,Value,M,Outside the country,Inside the country,At POS,All users,1148.953,A,1272.845,A,1272.946,A,1517.546,A,1732.509,A,2232.181,A,2648.881,A,2997.592,A,2988.025,A
+A:TR:V:O:A:A:I:O:A:A:A:A,TR,Turkey,Value,O,All,Inside the country,At POS,All users,,M,400.917,A,1535.822,A,2152.463,A,2410.562,A,4684.838,A,8124.183,A,9205.918,A,11947.642,A
+A:US:N:A:A:Z:Z:A:A:Z:A:A,US,United States,Number,A,Not applicable,Not applicable,All,All users,115288.985,A,121467.563,A,127610.301,A,133984.27,A,141081.495,A,151770.921,A,162088.503,A,172178.486,A,183796.41,A
+A:US:N:B:A:Z:Z:A:A:Z:A:A,US,United States,Number,B,Not applicable,Not applicable,All,All users,8629.802,A,9124.564,A,9507.779,A,10005.386,A,10525.854,A,11153.304,A,11898.837,A,12873.606,A,14494.03,A
+A:US:N:B:A:Z:Z:R:P:Z:A:A,US,United States,Number,B,Not applicable,Not applicable,At POS,All users,105,A,122,A,164,A,210,A,224,A,238,A,251.7,A,257.5,A,221.3,A
+A:US:N:C:A:Z:Z:A:A:Z:A:A,US,United States,Number,C,Not applicable,Not applicable,At POS,All users,12139.183,A,12642.588,A,13187.3,A,13956.27,A,14695.889,A,15508.822,A,16652.539,A,17890.097,A,18810.691,A
+A:US:N:D:A:Z:Z:A:A:Z:A:A,US,United States,Number,D,Not applicable,Not applicable,At POS,All users,19746,A,19223.2,A,18734.8,A,18138.981,A,16738.17,A,15345.833,A,13936.548,A,12527.263,A,11215.877,A
+A:US:N:F:A:A:I:A:A:D:A:A,US,United States,Number,F,All,Inside the country,At POS,All users,47259,A,50376.3857,A,53493.7715,A,56611.157,A,60410.342,A,66758.286,A,72657.86,A,78006.764,A,84457.016,A
+A:US:N:F:A:A:I:T:A:A:A:A,US,United States,Number,F,All,Inside the country,All,All users,62874.725,A,65675.65343,A,68476.5818,A,71277.51,A,61992.859,A,48005.356,A,42323.179,A,36641.002,A,30958.825,A
+A:US:N:F:C:O:I:A:A:A:A:A,US,United States,Number,F,Outside the country,Inside the country,All,All users,613.687,A,673.489,A,733.292,A,793.1,A,959.8815,A,1187.4374,A,1436.89,A,1686.3465,A,1935.801,A
+A:US:N:F:D:I:I:A:A:A:A:A,US,United States,Number,F,Inside the country,Inside the country,All,All users,74159,A,79802.84631,A,85446.6926,A,91090.5,A,98161.7,A,108575.52,A,118163.69,A,127751.85,A,137340.01,A
+A:US:N:F:Z:I:A:A:A:D:A:A,US,United States,Number,F,Inside the country,All,All,All users,51717,A,56021,A,59539,A,64268,A,68450,A,71203,A,77794,A,83756,A,86807.31,A
+A:US:N:M:Z:I:A:O:B:A:A:A,US,United States,Number,M,Inside the country,All,At ATMs,All users,5804,A,5611,A,5419,A,5226,A,5181.405,A,5136.811,A,5092.216,A,5047.447,A,4913.187,A
+A:US:V:A:A:Z:Z:A:A:Z:A:A,US,United States,Value,A,Not applicable,Not applicable,All,All users,77616751,A,80840297,A,83414559.3,A,86389940,A,88563411.3,A,91997883,A,97412632.36,A,102923088,A,110283365,A
+A:US:V:B:A:Z:Z:A:A:Z:A:A,US,United States,Value,B,Not applicable,Not applicable,All,All users,27507110,A,29245514,A,30979089,A,32476416,A,34124865,A,36680362,A,40872835,A,44292084,A,49115736,A
+A:US:V:B:A:Z:Z:R:P:Z:A:A,US,United States,Value,B,Not applicable,Not applicable,At POS,All users,7040,A,8440,A,11230,A,12250,A,12530,A,15450,A,17310,A,17160,A,13770,A
+A:US:V:C:A:Z:Z:A:A:Z:A:A,US,United States,Value,C,Not applicable,Not applicable,All,All users,18647583,A,19182906,A,19073774,A,19602010,A,20629512,A,21852623,A,23284853,A,25586013,A,28332592,A
+A:US:V:D:A:Z:Z:A:A:Z:A:A,US,United States,Value,D,Not applicable,Not applicable,At ATMs,All users,27211498.81,A,27868959.21,A,28526419.6,A,29183880,A,28346437.03,A,27508994.06,A,26671551.09,A,25834108.12,A,24996665.15,A
+A:US:V:F:A:A:I:A:A:D:A:A,US,United States,Value,F,All,Inside the country,At ATMs,All users,1871304,A,1973027,A,2074750,A,2176473,A,2310672,A,2472623,A,2749431,A,3026240,A,3303048,A
+A:US:V:F:C:O:I:A:A:A:A:A,US,United States,Value,F,Outside the country,Inside the country,At ATMs,All users,82699,A,84988,A,87277,A,89565,A,98239,A,120691,A,142246,A,163801,A,185355,A
+A:US:V:F:D:I:I:A:A:A:A:A,US,United States,Value,F,Inside the country,Inside the country,At ATMs,All users,4167861,A,4457930,A,4748000,A,5038069,A,5364359,A,5835213,A,6441147,A,7047082,A,7653016,A
+A:US:V:F:Z:I:A:A:A:D:A:A,US,United States,Value,F,Inside the country,All,At ATMs,All users,1975810,A,2130670,A,2279740,A,2444800,A,2589380,A,2734380,A,3031380,A,3350440,A,3776070,A
+A:US:V:M:Z:I:A:O:B:A:A:A,US,United States,Value,M,Inside the country,All,At ATMs,All users,687026,A,712294,A,737563,A,762831,A,774135,A,762831,A,796742,A,808045,A,819349,A
+A:ZA:N:A:A:Z:Z:A:A:Z:A:A,ZA,South Africa,Number,A,Not applicable,Not applicable,All,All users,2857.252,A,3138.883,A,3432.059,A,3798.424,A,4386.21,A,4483.829,A,4939.978,A,5468.353,A,5393.138,A
+A:ZA:N:B:A:Z:Z:A:A:Z:A:A,ZA,South Africa,Number,B,Not applicable,Not applicable,All,All users,657.769,A,673.999,A,695.317,A,738.307,A,785.419,A,813.898,A,874.1,A,944.053,A,1083.549,A
+A:ZA:N:C:A:Z:Z:A:A:Z:A:A,ZA,South Africa,Number,C,Not applicable,Not applicable,All,All users,706.837,A,766.598,A,785.965,A,782.907,A,822.775,A,838.535,A,887.038,A,863.379,A,802.841,A
+A:ZA:N:D:A:Z:Z:A:A:Z:A:A,ZA,South Africa,Number,D,Not applicable,Not applicable,All,All users,42.166,A,30.929,A,22.86,A,16.887,A,12.187,A,8.65,A,6.077,A,6.636,A,2.811,A
+A:ZA:N:F:A:A:I:A:A:Z:A:A,ZA,South Africa,Number,F,All,Inside the country,All,All users,1450.48,A,1667.357,A,1927.917,A,2260.323,A,2765.83,A,2822.747,A,3172.762,A,3654.285,A,3503.937,A
+A:ZA:N:L:A:A:I:O:A:A:A:A,ZA,South Africa,Number,L,All,Inside the country,At POS,All users,1089.891,A,1168.78,A,1248.087,A,1450.002,A,1527.092,A,1532.114,A,1500.658,A,1553.912,A,1449.117,A
+A:ZA:N:M:A:A:I:O:A:A:A:A,ZA,South Africa,Number,M,All,Inside the country,All,All users,1089.891,A,1121.276,A,1181.954,A,1361.405,A,1418.764,A,1409.41,A,1363.108,A,1406.966,A,1292.788,A
+A:ZA:N:M:D:I:I:O:A:A:A:A,ZA,South Africa,Number,M,Inside the country,Inside the country,All,All users,1089.891,A,1121.276,A,1181.954,A,1361.405,A,1418.764,A,1409.41,A,1363.108,A,1406.966,A,1292.788,A
+A:ZA:N:M:D:I:I:O:B:A:A:A,ZA,South Africa,Number,M,Inside the country,Inside the country,At ATMs,All users,1052.123,A,1052.73,A,1093.969,A,1168.921,A,1210.97,A,1211.885,A,1164.304,A,1180.877,A,1085.035,A
+A:ZA:N:M:D:I:I:O:P:A:A:A,ZA,South Africa,Number,M,Inside the country,Inside the country,At POS,All users,37.768,A,68.546,A,87.985,A,192.484,A,207.794,A,197.526,A,198.804,A,226.088,A,207.753,A
+A:ZA:N:N:A:A:I:O:A:A:A:A,ZA,South Africa,Number,N,All,Inside the country,All,All users,,L,47.504,A,66.133,A,88.597,A,108.328,A,122.704,A,137.55,A,146.946,A,156.329,A
+A:ZA:N:N:D:I:I:O:A:A:A:A,ZA,South Africa,Number,N,Inside the country,Inside the country,All,All users,,L,47.504,A,66.133,A,88.597,A,108.328,A,122.704,A,137.55,A,146.946,A,156.329,A
+A:ZA:V:A:A:Z:Z:A:A:Z:A:A,ZA,South Africa,Value,A,Not applicable,Not applicable,All,All users,19823601.9,A,22782185.4,A,24418864.4,A,26319468.7,A,28524170.3,A,30407545.7,A,31435079,A,32488309.7,A,35195181.7,A
+A:ZA:V:B:A:Z:Z:A:A:Z:A:A,ZA,South Africa,Value,B,Not applicable,Not applicable,All,All users,17210146.2,A,20453911.8,A,22035100.7,A,23846178.6,A,25931807.1,A,27577307.8,A,28575159.7,A,29385800,A,32340505.5,A
+A:ZA:V:C:A:Z:Z:A:A:Z:A:A,ZA,South Africa,Value,C,Not applicable,Not applicable,All,All users,1241802.81,A,1319227.13,A,1248321.77,A,1297281.14,A,1397708.48,A,1615302.5,A,1565891.6,A,1665537.08,A,1492209.61,A
+A:ZA:V:D:A:Z:Z:A:A:Z:A:A,ZA,South Africa,Value,D,Not applicable,Not applicable,All,All users,850953.809,A,500336.944,A,383428.751,A,294036.4,A,221512.524,A,167674.726,A,126629.48,A,135556.087,A,36686.999,A
+A:ZA:V:F:A:A:I:A:A:Z:A:A,ZA,South Africa,Value,F,All,Inside the country,All,All users,522280.406,A,624180.16,A,752013.17,A,881972.524,A,973142.261,A,1047260.75,A,1167398.3,A,1301416.59,A,1325779.55,A
+A:ZA:V:L:A:A:I:O:A:A:A:A,ZA,South Africa,Value,L,All,Inside the country,At POS,All users,552181.416,A,886989.343,A,980507.527,A,1157625.58,A,1258571,A,1307352.58,A,1323004.94,A,1424707.96,A,1368125.81,A
+A:ZA:V:M:A:A:I:O:A:A:A:A,ZA,South Africa,Value,M,All,Inside the country,At POS,All users,552181.416,A,813195.493,A,894963.777,A,1038064.34,A,1103854.53,A,1126683.25,A,1112891.83,A,1187826.33,A,1112314.58,A
+A:ZA:V:M:D:I:I:O:A:A:A:A,ZA,South Africa,Value,M,Inside the country,Inside the country,At POS,All users,552181.416,A,813195.493,A,894963.777,A,1038064.34,A,1103854.53,A,1126683.25,A,1112891.83,A,1187826.33,A,1112314.58,A
+A:ZA:V:M:D:I:I:O:B:A:A:A,ZA,South Africa,Value,M,Inside the country,Inside the country,At ATMs,All users,533408.833,A,770819.81,A,835571.891,A,921488.377,A,983493.02,A,1028174.18,A,1009366.99,A,1062213.16,A,982685.931,A
+A:ZA:V:N:A:A:I:O:A:A:A:A,ZA,South Africa,Value,N,All,Inside the country,At POS,All users,,L,73793.85,A,85543.75,A,119561.239,A,154716.468,A,180669.327,A,210113.108,A,236881.628,A,255811.222,A
+A:ZA:V:N:D:I:I:O:A:A:A:A,ZA,South Africa,Value,N,Inside the country,Inside the country,At POS,All users,,M,73793.85,A,85543.75,A,119561.239,A,154716.468,A,180669.327,A,210113.108,A,236881.628,A,255811.222,A
